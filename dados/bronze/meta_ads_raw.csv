@@ -1,0 +1,301 @@
+date,channel,platform,campaign_id,campaign,objective,ad_group,creative_id,device,region,status,budget_daily,currency,impressions,clicks,conversions,revenue
+2025-01-01,meta_ads,meta,5,Casa,awareness,Black Friday,cr_6386,desktop,BA,active,100.41,BRL,3146,82,3,4226.77
+2025-01-01,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_6868,mobile,SE,active,247.23,BRL,2729,70,1,789.44
+2025-01-01,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_7995,desktop,PE,active,1198.15,BRL,3357,125,2,3512.44
+2025-01-01,meta_ads,meta,3,Office,traffic,IPTU 0,cr_8656,mobile,AL,active,179.63,BRL,2067,32,1,1566.88
+2025-01-01,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_8053,mobile,RN,active,1677.08,BRL,1363,24,0,0.0
+2025-01-01,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_8611,mobile,RN,active,1799.88,BRL,3466,53,1,1094.08
+2025-01-01,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_8027,desktop,PE,active,353.44,BRL,5989,154,3,2553.25
+2025-01-01,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_3320,mobile,BA,active,1730.82,BRL,3219,47,1,1038.67
+2025-01-01,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_7793,desktop,BA,active,538.36,BRL,1650,25,0,0.0
+2025-01-01,meta_ads,meta,3,Office,traffic,Black Friday,cr_4167,desktop,BA,active,1171.35,BRL,2209,85,2,2597.79
+2025-01-02,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_3328,mobile,SE,active,1800.89,BRL,4064,124,4,6925.41
+2025-01-02,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_2005,desktop,PE,active,871.15,BRL,3719,144,4,6690.15
+2025-01-02,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_8869,desktop,AL,active,1655.51,BRL,1126,18,0,0.0
+2025-01-02,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_7632,mobile,BA,active,439.56,BRL,1633,43,1,1371.72
+2025-01-02,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_6434,mobile,RN,active,302.88,BRL,5080,54,2,3454.51
+2025-01-02,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_8165,mobile,BA,active,1105.69,BRL,2850,111,2,2264.67
+2025-01-02,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_5616,desktop,AL,active,260.39,BRL,2289,53,0,0.0
+2025-01-02,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_3331,desktop,SE,active,1004.37,BRL,1575,42,1,998.25
+2025-01-02,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_4105,desktop,SE,active,675.95,BRL,1864,39,0,0.0
+2025-01-02,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_4215,desktop,BA,active,587.32,BRL,4716,88,3,4042.26
+2025-01-03,meta_ads,meta,5,Casa,awareness,Black Friday,cr_1842,mobile,BA,active,1964.52,BRL,2873,34,0,0.0
+2025-01-03,meta_ads,meta,5,Casa,awareness,Remarketing,cr_7538,mobile,RN,active,1310.86,BRL,1608,30,1,910.67
+2025-01-03,meta_ads,meta,3,Office,traffic,IPTU 0,cr_3138,mobile,SE,active,1397.02,BRL,3653,140,4,5245.77
+2025-01-03,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_8626,mobile,RN,active,114.54,BRL,5275,92,3,4989.37
+2025-01-03,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_2861,mobile,AL,active,128.72,BRL,5469,89,3,4233.4
+2025-01-03,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_8228,mobile,CE,active,607.97,BRL,3919,140,6,9788.21
+2025-01-03,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_6663,mobile,PE,active,111.51,BRL,3988,43,0,0.0
+2025-01-03,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_2817,mobile,AL,active,1623.0,BRL,1629,44,2,1912.86
+2025-01-03,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_7835,desktop,BA,active,1007.52,BRL,1263,28,0,0.0
+2025-01-03,meta_ads,meta,5,Casa,awareness,Remarketing,cr_5949,mobile,RN,active,1013.92,BRL,1467,25,0,0.0
+2025-01-04,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_4217,desktop,RN,active,571.01,BRL,3979,79,3,4078.55
+2025-01-04,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_1572,desktop,SE,active,803.21,BRL,2285,89,4,4352.77
+2025-01-04,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_3466,desktop,SE,active,1097.52,BRL,804,22,0,0.0
+2025-01-04,meta_ads,meta,3,Office,traffic,Remarketing,cr_2302,mobile,PE,active,243.45,BRL,5187,100,4,3991.34
+2025-01-04,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_7965,desktop,AL,active,1001.61,BRL,4806,172,6,9067.5
+2025-01-04,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_2576,mobile,RN,active,915.99,BRL,2979,38,0,0.0
+2025-01-04,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_7518,mobile,RN,active,1070.0,BRL,3658,65,1,722.19
+2025-01-04,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_8927,mobile,AL,active,258.26,BRL,4558,119,5,3642.62
+2025-01-04,meta_ads,meta,3,Office,traffic,Lançamento,cr_3163,desktop,RN,active,994.92,BRL,998,10,0,0.0
+2025-01-04,meta_ads,meta,3,Office,traffic,Black Friday,cr_1147,mobile,BA,active,486.8,BRL,2855,113,2,3528.45
+2025-01-05,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_2744,desktop,RN,active,802.05,BRL,3344,71,1,1196.71
+2025-01-05,meta_ads,meta,3,Office,traffic,IPTU 0,cr_1393,desktop,BA,active,758.21,BRL,4698,129,5,3706.89
+2025-01-05,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_3351,mobile,BA,active,1939.29,BRL,5098,101,3,3349.57
+2025-01-05,meta_ads,meta,3,Office,traffic,Lançamento,cr_1615,desktop,CE,active,494.99,BRL,5096,114,4,4376.2
+2025-01-05,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_6917,desktop,AL,active,1747.61,BRL,3165,35,0,0.0
+2025-01-05,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_2060,desktop,PE,active,516.29,BRL,5973,213,6,5054.29
+2025-01-05,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_3678,desktop,RN,active,1969.5,BRL,1506,25,1,1181.06
+2025-01-05,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_3750,mobile,AL,active,470.33,BRL,1422,34,1,1425.25
+2025-01-05,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_3703,desktop,AL,active,1342.01,BRL,4770,134,2,2510.06
+2025-01-05,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_7540,mobile,CE,active,396.6,BRL,800,27,0,0.0
+2025-01-06,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_3794,mobile,CE,active,1292.56,BRL,2158,46,0,0.0
+2025-01-06,meta_ads,meta,3,Office,traffic,Lançamento,cr_7150,mobile,PE,active,1366.94,BRL,2772,106,4,6616.4
+2025-01-06,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_8028,mobile,AL,active,1750.43,BRL,3815,135,4,3950.63
+2025-01-06,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_7989,desktop,PE,active,902.04,BRL,3451,116,1,815.64
+2025-01-06,meta_ads,meta,5,Casa,awareness,Black Friday,cr_8290,mobile,PE,active,1693.92,BRL,4810,89,2,1497.12
+2025-01-06,meta_ads,meta,3,Office,traffic,Lançamento,cr_7651,desktop,PE,active,428.99,BRL,3138,115,5,6823.34
+2025-01-06,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_8856,mobile,PE,active,1180.62,BRL,5874,88,3,3854.52
+2025-01-06,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_1249,mobile,SE,active,629.65,BRL,1875,62,1,1668.39
+2025-01-06,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_2618,desktop,PE,active,1146.15,BRL,2206,27,1,762.59
+2025-01-06,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_8518,desktop,BA,active,1350.49,BRL,4354,69,1,1578.49
+2025-01-07,meta_ads,meta,3,Office,traffic,Black Friday,cr_4625,mobile,PE,active,356.44,BRL,4281,102,4,2881.77
+2025-01-07,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_4454,mobile,AL,active,1815.03,BRL,4533,89,1,1588.51
+2025-01-07,meta_ads,meta,3,Office,traffic,Remarketing,cr_5677,mobile,CE,active,1195.9,BRL,1723,47,1,1563.5
+2025-01-07,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_7922,mobile,BA,active,328.95,BRL,3960,71,3,3426.41
+2025-01-07,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_5813,mobile,AL,active,512.96,BRL,1616,18,0,0.0
+2025-01-07,meta_ads,meta,3,Office,traffic,Remarketing,cr_9282,desktop,BA,active,1908.43,BRL,1076,23,0,0.0
+2025-01-07,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_9445,desktop,AL,active,1961.32,BRL,2326,40,0,0.0
+2025-01-07,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_2107,mobile,AL,active,1115.04,BRL,3437,119,4,3088.48
+2025-01-07,meta_ads,meta,3,Office,traffic,Lançamento,cr_5807,mobile,CE,active,231.4,BRL,3564,68,2,1569.08
+2025-01-07,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_5065,mobile,RN,active,1947.5,BRL,3247,104,4,5547.76
+2025-01-08,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_7124,mobile,CE,active,1596.22,BRL,5330,158,6,9568.87
+2025-01-08,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_8269,mobile,SE,active,1130.06,BRL,5253,61,1,1493.05
+2025-01-08,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_8988,desktop,CE,active,481.93,BRL,3822,149,4,5414.28
+2025-01-08,meta_ads,meta,3,Office,traffic,Black Friday,cr_7661,mobile,RN,active,1645.84,BRL,1957,48,2,2839.24
+2025-01-08,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_4623,desktop,BA,active,923.5,BRL,2120,73,1,1176.89
+2025-01-08,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_8402,mobile,SE,active,551.95,BRL,5817,111,5,6539.26
+2025-01-08,meta_ads,meta,3,Office,traffic,Lançamento,cr_5739,mobile,AL,active,237.62,BRL,1685,29,1,1656.13
+2025-01-08,meta_ads,meta,5,Casa,awareness,Black Friday,cr_7534,desktop,SE,active,135.21,BRL,3801,58,2,2253.82
+2025-01-08,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_5604,mobile,CE,active,1166.26,BRL,4498,112,2,2908.06
+2025-01-08,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_8116,desktop,BA,active,1609.5,BRL,5589,175,5,8657.87
+2025-01-09,meta_ads,meta,5,Casa,awareness,Remarketing,cr_9123,desktop,BA,active,884.46,BRL,4957,196,8,10074.67
+2025-01-09,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_5040,desktop,SE,active,1985.58,BRL,4761,109,4,3409.05
+2025-01-09,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_8576,desktop,SE,active,1329.33,BRL,4194,138,4,3062.59
+2025-01-09,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_6213,desktop,SE,active,536.8,BRL,4955,140,6,5869.92
+2025-01-09,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_4644,mobile,RN,active,774.85,BRL,3732,148,3,3640.27
+2025-01-09,meta_ads,meta,5,Casa,awareness,Black Friday,cr_6331,desktop,BA,active,1348.1,BRL,5263,199,9,6598.46
+2025-01-09,meta_ads,meta,3,Office,traffic,Lançamento,cr_7857,mobile,PE,active,1407.6,BRL,4676,91,3,3429.89
+2025-01-09,meta_ads,meta,3,Office,traffic,Lançamento,cr_4819,mobile,PE,active,1765.78,BRL,5045,191,7,11487.22
+2025-01-09,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_5505,desktop,BA,active,842.63,BRL,3816,139,4,3455.09
+2025-01-09,meta_ads,meta,3,Office,traffic,IPTU 0,cr_9250,desktop,AL,active,587.6,BRL,4807,114,4,6352.55
+2025-01-10,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_4112,mobile,SE,active,1327.03,BRL,4038,47,1,1778.35
+2025-01-10,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_4676,desktop,SE,active,1535.28,BRL,1426,27,0,0.0
+2025-01-10,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_6171,mobile,PE,active,147.36,BRL,2253,57,2,3449.06
+2025-01-10,meta_ads,meta,5,Casa,awareness,Black Friday,cr_8726,desktop,PE,active,170.37,BRL,2697,39,0,0.0
+2025-01-10,meta_ads,meta,3,Office,traffic,Remarketing,cr_5508,desktop,SE,active,1421.54,BRL,5691,173,5,3779.61
+2025-01-10,meta_ads,meta,3,Office,traffic,Lançamento,cr_9182,desktop,BA,active,221.67,BRL,5912,184,7,9959.57
+2025-01-10,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_5958,mobile,BA,active,1646.36,BRL,2635,64,1,1087.24
+2025-01-10,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_9623,mobile,SE,active,905.41,BRL,1765,19,0,0.0
+2025-01-10,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_3158,mobile,SE,active,306.91,BRL,4300,62,1,1695.17
+2025-01-10,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_9452,desktop,AL,active,1325.83,BRL,1754,18,0,0.0
+2025-01-11,meta_ads,meta,5,Casa,awareness,Black Friday,cr_9490,mobile,AL,active,1264.88,BRL,4027,51,1,1176.48
+2025-01-11,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_1945,mobile,CE,active,189.21,BRL,4531,61,1,1741.5
+2025-01-11,meta_ads,meta,5,Casa,awareness,Black Friday,cr_7652,mobile,AL,active,1310.91,BRL,3488,38,1,1771.04
+2025-01-11,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_4286,desktop,BA,active,303.29,BRL,3159,104,1,1468.22
+2025-01-11,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_9364,mobile,AL,active,1148.15,BRL,4878,180,7,7945.05
+2025-01-11,meta_ads,meta,3,Office,traffic,IPTU 0,cr_1431,desktop,PE,active,1958.63,BRL,1761,58,1,1607.33
+2025-01-11,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_2215,desktop,CE,active,1080.33,BRL,1961,24,0,0.0
+2025-01-11,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_5118,desktop,AL,active,402.79,BRL,991,10,0,0.0
+2025-01-11,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_6684,desktop,BA,active,1827.42,BRL,1526,38,1,1729.65
+2025-01-11,meta_ads,meta,3,Office,traffic,Black Friday,cr_3706,mobile,CE,active,1214.44,BRL,4385,74,2,2348.56
+2025-01-12,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_1203,desktop,PE,active,462.7,BRL,5545,71,2,2199.96
+2025-01-12,meta_ads,meta,3,Office,traffic,Lançamento,cr_4242,desktop,RN,active,934.09,BRL,1799,36,0,0.0
+2025-01-12,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_8394,desktop,BA,active,1964.45,BRL,913,19,0,0.0
+2025-01-12,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_7730,desktop,AL,active,1380.21,BRL,5170,90,2,3049.85
+2025-01-12,meta_ads,meta,5,Casa,awareness,Black Friday,cr_2210,desktop,AL,active,867.17,BRL,2589,96,3,3337.19
+2025-01-12,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_8168,desktop,PE,active,383.55,BRL,5656,208,6,4964.76
+2025-01-12,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_7452,desktop,BA,active,543.7,BRL,1655,28,0,0.0
+2025-01-12,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_5971,desktop,BA,active,984.78,BRL,5483,125,5,5551.79
+2025-01-12,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_4700,desktop,SE,active,1319.88,BRL,1085,38,1,1115.36
+2025-01-12,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_6058,mobile,SE,active,1469.58,BRL,2359,82,1,1487.35
+2025-01-13,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_5735,desktop,SE,active,1522.22,BRL,4857,178,7,8520.82
+2025-01-13,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_1908,mobile,BA,active,1862.04,BRL,4511,124,5,4108.08
+2025-01-13,meta_ads,meta,3,Office,traffic,IPTU 0,cr_1121,desktop,AL,active,886.84,BRL,898,16,0,0.0
+2025-01-13,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_8581,desktop,SE,active,1733.01,BRL,1647,34,1,1387.46
+2025-01-13,meta_ads,meta,5,Casa,awareness,Lançamento,cr_6101,mobile,RN,active,1333.48,BRL,2807,94,3,4115.8
+2025-01-13,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_8618,desktop,AL,active,245.82,BRL,2365,34,0,0.0
+2025-01-13,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_7002,desktop,PE,active,1779.32,BRL,1022,10,0,0.0
+2025-01-13,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_7381,mobile,CE,active,284.17,BRL,4624,88,4,5547.86
+2025-01-13,meta_ads,meta,3,Office,traffic,Lançamento,cr_3325,desktop,AL,active,1593.64,BRL,2157,46,2,3119.88
+2025-01-13,meta_ads,meta,5,Casa,awareness,Lançamento,cr_2172,mobile,AL,active,695.49,BRL,1000,19,0,0.0
+2025-01-14,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_5382,mobile,CE,active,505.79,BRL,4152,59,1,841.15
+2025-01-14,meta_ads,meta,5,Casa,awareness,Black Friday,cr_5129,mobile,SE,active,1221.46,BRL,3339,119,5,6644.33
+2025-01-14,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_5678,mobile,RN,active,1146.12,BRL,1601,41,1,784.94
+2025-01-14,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_3467,desktop,RN,active,897.29,BRL,2125,34,1,1667.27
+2025-01-14,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_1939,desktop,SE,active,1901.69,BRL,5457,62,2,2330.5
+2025-01-14,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_5783,desktop,SE,active,1724.54,BRL,4050,76,3,5372.61
+2025-01-14,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_7897,mobile,RN,active,1704.44,BRL,4423,176,4,3569.25
+2025-01-14,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_6124,desktop,CE,active,1680.7,BRL,1582,28,1,1079.78
+2025-01-14,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_8513,mobile,RN,active,1394.33,BRL,3258,49,0,0.0
+2025-01-14,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_6603,desktop,PE,active,1792.13,BRL,2020,22,0,0.0
+2025-01-15,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_6921,desktop,SE,active,1580.91,BRL,4141,133,6,9406.93
+2025-01-15,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_9421,mobile,BA,active,869.23,BRL,3907,99,4,4241.58
+2025-01-15,meta_ads,meta,3,Office,traffic,Remarketing,cr_5319,mobile,SE,active,140.92,BRL,2442,74,2,3187.14
+2025-01-15,meta_ads,meta,3,Office,traffic,Remarketing,cr_6251,desktop,BA,active,464.69,BRL,1892,23,0,0.0
+2025-01-15,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_3945,mobile,CE,active,1333.91,BRL,5775,93,3,2893.9
+2025-01-15,meta_ads,meta,3,Office,traffic,Lançamento,cr_9221,mobile,CE,active,1197.24,BRL,4299,133,4,6138.38
+2025-01-15,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_8622,desktop,BA,active,1093.76,BRL,4623,75,2,3458.37
+2025-01-15,meta_ads,meta,3,Office,traffic,Remarketing,cr_7881,desktop,SE,active,389.51,BRL,3393,71,1,1047.93
+2025-01-15,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_4581,mobile,RN,active,210.02,BRL,4640,109,3,3762.25
+2025-01-15,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_1975,mobile,AL,active,1855.96,BRL,2073,69,1,1635.9
+2025-01-16,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_3411,mobile,CE,active,129.39,BRL,2806,85,4,7065.19
+2025-01-16,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_8752,mobile,AL,active,803.11,BRL,5040,72,3,4656.42
+2025-01-16,meta_ads,meta,3,Office,traffic,Remarketing,cr_8702,mobile,PE,active,311.67,BRL,2277,41,1,1301.51
+2025-01-16,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_8917,desktop,PE,active,1960.98,BRL,809,29,1,1034.49
+2025-01-16,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_9328,desktop,AL,active,421.25,BRL,2587,84,3,2153.99
+2025-01-16,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_8558,desktop,AL,active,288.97,BRL,5309,70,3,3330.29
+2025-01-16,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_8347,desktop,AL,active,1821.07,BRL,811,23,0,0.0
+2025-01-16,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_1532,mobile,CE,active,654.67,BRL,4900,105,4,3893.24
+2025-01-16,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_3872,desktop,RN,active,1782.45,BRL,891,32,1,1797.75
+2025-01-16,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_9148,mobile,AL,active,731.75,BRL,3189,90,2,1723.04
+2025-01-17,meta_ads,meta,3,Office,traffic,Black Friday,cr_3527,mobile,PE,active,1928.04,BRL,4082,123,3,2845.01
+2025-01-17,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_4214,mobile,CE,active,685.6,BRL,4781,111,3,5287.71
+2025-01-17,meta_ads,meta,3,Office,traffic,IPTU 0,cr_6414,desktop,RN,active,1093.0,BRL,3545,53,1,1650.03
+2025-01-17,meta_ads,meta,3,Office,traffic,Black Friday,cr_5101,mobile,AL,active,1356.4,BRL,5478,218,9,12489.14
+2025-01-17,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_5037,desktop,RN,active,1162.24,BRL,3554,64,1,1757.37
+2025-01-17,meta_ads,meta,5,Casa,awareness,Remarketing,cr_5149,mobile,PE,active,312.14,BRL,1168,20,0,0.0
+2025-01-17,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_3945,mobile,RN,active,1386.08,BRL,2430,27,0,0.0
+2025-01-17,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_7032,mobile,RN,active,502.47,BRL,1924,27,0,0.0
+2025-01-17,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_6004,mobile,CE,active,145.99,BRL,3497,116,3,3682.0
+2025-01-17,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_7812,mobile,PE,active,1795.43,BRL,5234,110,5,3852.26
+2025-01-18,meta_ads,meta,3,Office,traffic,Lançamento,cr_6116,mobile,AL,active,457.09,BRL,3361,50,1,1069.58
+2025-01-18,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_7347,mobile,RN,active,961.54,BRL,1399,48,1,1346.97
+2025-01-18,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_9312,mobile,BA,active,1101.63,BRL,4867,173,6,5189.74
+2025-01-18,meta_ads,meta,5,Casa,awareness,Black Friday,cr_3670,desktop,CE,active,190.01,BRL,1816,24,0,0.0
+2025-01-18,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_5176,mobile,PE,active,247.15,BRL,4048,130,5,8479.55
+2025-01-18,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_3337,mobile,SE,active,1842.58,BRL,3232,56,2,3495.55
+2025-01-18,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_2216,mobile,CE,active,1880.96,BRL,3585,41,1,1417.53
+2025-01-18,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_8040,desktop,CE,active,1049.91,BRL,955,14,0,0.0
+2025-01-18,meta_ads,meta,3,Office,traffic,Black Friday,cr_3324,mobile,SE,active,1971.82,BRL,4983,199,9,13752.0
+2025-01-18,meta_ads,meta,3,Office,traffic,IPTU 0,cr_2849,mobile,AL,active,890.71,BRL,3233,79,1,1314.62
+2025-01-19,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_8172,desktop,PE,active,1371.37,BRL,1648,19,0,0.0
+2025-01-19,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_8381,desktop,PE,active,574.68,BRL,1886,29,0,0.0
+2025-01-19,meta_ads,meta,3,Office,traffic,Lançamento,cr_2956,mobile,PE,active,1122.34,BRL,846,10,0,0.0
+2025-01-19,meta_ads,meta,5,Casa,awareness,Remarketing,cr_7682,mobile,CE,active,1688.49,BRL,2561,82,1,1752.75
+2025-01-19,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_5950,desktop,RN,active,1492.62,BRL,5892,130,5,4726.26
+2025-01-19,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_7027,desktop,AL,active,1693.14,BRL,2707,54,1,1775.86
+2025-01-19,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_1604,mobile,BA,active,1953.14,BRL,3942,67,2,1885.16
+2025-01-19,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_3659,desktop,AL,active,1489.2,BRL,4888,194,3,3164.89
+2025-01-19,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_2128,mobile,BA,active,1544.69,BRL,5751,186,3,2478.02
+2025-01-19,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_2246,mobile,PE,active,1104.55,BRL,3069,48,1,859.91
+2025-01-20,meta_ads,meta,5,Casa,awareness,Remarketing,cr_3999,desktop,BA,active,1304.2,BRL,2172,43,1,1226.6
+2025-01-20,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_7048,mobile,RN,active,1562.74,BRL,1463,26,0,0.0
+2025-01-20,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_3856,mobile,BA,active,487.74,BRL,5761,100,2,2053.7
+2025-01-20,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_8068,mobile,CE,active,538.67,BRL,3179,79,2,2357.48
+2025-01-20,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_1718,desktop,AL,active,1228.39,BRL,3668,111,1,1103.82
+2025-01-20,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_9626,mobile,RN,active,497.48,BRL,829,22,0,0.0
+2025-01-20,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_9617,mobile,CE,active,1678.12,BRL,5547,142,7,6359.71
+2025-01-20,meta_ads,meta,3,Office,traffic,Remarketing,cr_4066,mobile,BA,active,1999.25,BRL,2452,62,2,2227.6
+2025-01-20,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_4178,desktop,BA,active,1096.35,BRL,2126,57,1,865.81
+2025-01-20,meta_ads,meta,3,Office,traffic,Black Friday,cr_7096,mobile,BA,active,1894.65,BRL,2685,94,2,2403.36
+2025-01-21,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_7510,desktop,BA,active,1915.94,BRL,3148,89,2,3058.26
+2025-01-21,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_9850,mobile,BA,active,163.15,BRL,4369,126,4,4870.45
+2025-01-21,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_1594,desktop,CE,active,1359.0,BRL,5305,196,3,4152.24
+2025-01-21,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_7223,desktop,SE,active,1418.07,BRL,2364,30,1,1519.11
+2025-01-21,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_9080,mobile,PE,active,843.24,BRL,4121,95,3,4803.2
+2025-01-21,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_6686,mobile,CE,active,403.72,BRL,2421,60,2,3065.02
+2025-01-21,meta_ads,meta,3,Office,traffic,Black Friday,cr_1111,desktop,SE,active,858.64,BRL,5281,84,1,1006.68
+2025-01-21,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_4417,desktop,SE,active,475.79,BRL,1801,48,0,0.0
+2025-01-21,meta_ads,meta,5,Casa,awareness,Black Friday,cr_5383,mobile,CE,active,369.84,BRL,1960,48,1,735.93
+2025-01-21,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_7870,desktop,CE,active,813.94,BRL,1655,33,0,0.0
+2025-01-22,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_5475,desktop,RN,active,1097.96,BRL,4406,170,5,4553.89
+2025-01-22,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_3812,mobile,SE,active,694.07,BRL,4141,164,4,5682.28
+2025-01-22,meta_ads,meta,3,Office,traffic,Remarketing,cr_9522,mobile,SE,active,404.7,BRL,2107,62,1,1268.05
+2025-01-22,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_5457,mobile,AL,active,1521.95,BRL,2209,56,1,1258.68
+2025-01-22,meta_ads,meta,3,Office,traffic,Black Friday,cr_4527,desktop,SE,active,690.3,BRL,1492,29,1,1477.03
+2025-01-22,meta_ads,meta,5,Casa,awareness,Lançamento,cr_6396,desktop,CE,active,923.76,BRL,2081,48,1,1353.33
+2025-01-22,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_1095,mobile,SE,active,1151.05,BRL,842,16,0,0.0
+2025-01-22,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_1110,mobile,PE,active,179.66,BRL,3098,107,4,4025.55
+2025-01-22,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_7668,mobile,CE,active,216.98,BRL,1134,38,0,0.0
+2025-01-22,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_8898,mobile,SE,active,1287.44,BRL,5392,208,9,15766.4
+2025-01-23,meta_ads,meta,3,Office,traffic,IPTU 0,cr_6340,mobile,BA,active,475.36,BRL,4695,157,2,2459.25
+2025-01-23,meta_ads,meta,3,Office,traffic,Black Friday,cr_7545,mobile,SE,active,1089.15,BRL,3675,48,1,1297.86
+2025-01-23,meta_ads,meta,5,Casa,awareness,Remarketing,cr_5974,desktop,PE,active,829.75,BRL,3452,44,1,1456.85
+2025-01-23,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_3223,desktop,CE,active,200.61,BRL,2712,42,1,1266.84
+2025-01-23,meta_ads,meta,3,Office,traffic,Black Friday,cr_7106,desktop,RN,active,1538.27,BRL,919,21,0,0.0
+2025-01-23,meta_ads,meta,3,Office,traffic,Remarketing,cr_7013,desktop,CE,active,807.26,BRL,3954,98,4,4523.22
+2025-01-23,meta_ads,meta,5,Casa,awareness,Lançamento,cr_2332,desktop,RN,active,1049.2,BRL,4042,141,2,2443.77
+2025-01-23,meta_ads,meta,3,Office,traffic,Lançamento,cr_6849,desktop,BA,active,1396.27,BRL,2470,66,1,773.0
+2025-01-23,meta_ads,meta,5,Casa,awareness,Black Friday,cr_8669,desktop,RN,active,1660.07,BRL,3820,151,4,3042.0
+2025-01-23,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_9941,desktop,AL,active,1851.89,BRL,811,27,0,0.0
+2025-01-24,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_1263,mobile,PE,active,329.09,BRL,820,10,0,0.0
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_9711,mobile,AL,active,1289.08,BRL,806,10,0,0.0
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_7391,mobile,CE,active,1613.95,BRL,4568,67,1,1435.11
+2025-01-24,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_6238,mobile,AL,active,1282.46,BRL,2727,104,3,3705.88
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_6025,mobile,RN,active,922.58,BRL,1216,13,0,0.0
+2025-01-24,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_9705,desktop,SE,active,1636.36,BRL,4463,104,4,4350.24
+2025-01-24,meta_ads,meta,5,Casa,awareness,Lançamento,cr_1270,mobile,CE,active,1960.55,BRL,3978,60,2,2648.08
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_4880,desktop,BA,active,1976.99,BRL,4791,154,7,11504.07
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_8685,desktop,AL,active,1648.47,BRL,2590,96,3,2516.57
+2025-01-24,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_6652,desktop,AL,active,1058.68,BRL,2223,84,2,3563.39
+2025-01-25,meta_ads,meta,3,Office,traffic,Promo Janeiro,cr_8029,desktop,CE,active,1111.77,BRL,2530,82,3,3902.73
+2025-01-25,meta_ads,meta,3,Office,traffic,IPTU 0,cr_6073,desktop,BA,active,217.64,BRL,2509,79,3,4176.13
+2025-01-25,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_3622,mobile,SE,active,660.92,BRL,1469,37,1,1530.33
+2025-01-25,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_5128,mobile,RN,active,270.36,BRL,2455,75,1,1035.15
+2025-01-25,meta_ads,meta,5,Casa,awareness,IPTU 0,cr_6925,mobile,BA,active,1331.52,BRL,2804,42,1,1580.15
+2025-01-25,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_4101,mobile,PE,active,325.2,BRL,3480,65,3,4599.24
+2025-01-25,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_7152,desktop,CE,active,524.9,BRL,2137,76,1,1213.51
+2025-01-25,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_2057,desktop,BA,active,1979.04,BRL,3446,39,0,0.0
+2025-01-25,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_8879,desktop,PE,active,951.28,BRL,1249,24,0,0.0
+2025-01-25,meta_ads,meta,1,Empresarial,conversions,Black Friday,cr_8629,desktop,SE,active,1378.56,BRL,4422,66,1,957.65
+2025-01-26,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_9950,desktop,SE,active,1133.62,BRL,1855,45,2,3450.14
+2025-01-26,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_4749,desktop,PE,active,1841.07,BRL,1867,42,0,0.0
+2025-01-26,meta_ads,meta,5,Casa,awareness,Remarketing,cr_3569,mobile,SE,active,1258.96,BRL,5357,72,3,4517.3
+2025-01-26,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_2779,mobile,RN,active,740.07,BRL,2850,36,1,1142.72
+2025-01-26,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_5580,desktop,AL,active,701.43,BRL,1397,41,1,1394.26
+2025-01-26,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_6952,mobile,SE,active,1810.19,BRL,1071,12,0,0.0
+2025-01-26,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_8493,desktop,AL,active,212.41,BRL,4178,52,1,1223.15
+2025-01-26,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_6043,mobile,BA,active,1229.04,BRL,2314,70,2,1423.46
+2025-01-26,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_1253,mobile,SE,active,1208.78,BRL,4724,64,2,1768.96
+2025-01-26,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_5562,mobile,RN,active,640.79,BRL,5525,219,8,6659.09
+2025-01-27,meta_ads,meta,5,Casa,awareness,Black Friday,cr_6809,desktop,RN,active,1244.46,BRL,854,30,0,0.0
+2025-01-27,meta_ads,meta,5,Casa,awareness,Black Friday,cr_3803,mobile,CE,active,1473.84,BRL,924,25,0,0.0
+2025-01-27,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_8775,mobile,BA,active,409.0,BRL,3333,55,1,1254.48
+2025-01-27,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_7279,desktop,RN,active,735.2,BRL,2193,49,1,1234.62
+2025-01-27,meta_ads,meta,2,Condominio,conversions,Black Friday,cr_7214,desktop,PE,active,774.94,BRL,5181,179,5,5949.54
+2025-01-27,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_9077,mobile,BA,active,1344.44,BRL,1129,20,0,0.0
+2025-01-27,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_5548,mobile,CE,active,419.36,BRL,1480,35,1,1622.75
+2025-01-27,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_2379,desktop,CE,active,1403.34,BRL,2631,49,2,2520.76
+2025-01-27,meta_ads,meta,2,Condominio,conversions,Lançamento,cr_6957,desktop,RN,active,1370.55,BRL,1274,14,0,0.0
+2025-01-27,meta_ads,meta,4,Apartamento,conversions,Lançamento,cr_4604,mobile,CE,active,1123.75,BRL,3011,66,2,2456.75
+2025-01-28,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_8996,desktop,PE,active,1221.82,BRL,5452,91,3,2831.73
+2025-01-28,meta_ads,meta,3,Office,traffic,Black Friday,cr_8584,mobile,PE,active,945.34,BRL,3114,44,0,0.0
+2025-01-28,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_2928,desktop,CE,active,1866.57,BRL,1677,47,2,1761.41
+2025-01-28,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_7551,mobile,SE,active,809.8,BRL,3281,128,2,2537.53
+2025-01-28,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_2936,desktop,AL,active,1169.31,BRL,4175,161,6,7210.26
+2025-01-28,meta_ads,meta,3,Office,traffic,Lançamento,cr_1544,mobile,SE,active,1964.4,BRL,3098,76,2,2797.77
+2025-01-28,meta_ads,meta,2,Condominio,conversions,IPTU 0,cr_9277,desktop,RN,active,100.79,BRL,3161,57,1,862.14
+2025-01-28,meta_ads,meta,5,Casa,awareness,Remarketing,cr_5204,desktop,SE,active,245.08,BRL,2136,59,1,1236.44
+2025-01-28,meta_ads,meta,4,Apartamento,conversions,Remarketing,cr_7730,desktop,BA,active,1512.62,BRL,4223,145,4,6315.69
+2025-01-28,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_4630,desktop,AL,active,1942.16,BRL,2711,48,2,2650.05
+2025-01-29,meta_ads,meta,3,Office,traffic,Lançamento,cr_9396,desktop,CE,active,1567.74,BRL,2323,79,2,3048.08
+2025-01-29,meta_ads,meta,2,Condominio,conversions,Remarketing,cr_8231,desktop,SE,active,1019.15,BRL,1112,19,0,0.0
+2025-01-29,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_3488,mobile,AL,active,630.43,BRL,4718,128,2,1918.51
+2025-01-29,meta_ads,meta,5,Casa,awareness,Lançamento,cr_6913,mobile,PE,active,740.34,BRL,1425,21,0,0.0
+2025-01-29,meta_ads,meta,3,Office,traffic,Remarketing,cr_3619,desktop,BA,active,1753.16,BRL,5156,93,1,1532.91
+2025-01-29,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_2017,mobile,SE,active,368.07,BRL,3028,114,2,2391.06
+2025-01-29,meta_ads,meta,1,Empresarial,conversions,Remarketing,cr_9673,desktop,SE,active,1466.31,BRL,1638,53,1,1732.1
+2025-01-29,meta_ads,meta,2,Condominio,conversions,Promo Janeiro,cr_6667,mobile,BA,active,1517.28,BRL,1430,17,0,0.0
+2025-01-29,meta_ads,meta,1,Empresarial,conversions,Lançamento,cr_4657,mobile,CE,active,1548.58,BRL,3627,121,3,2436.02
+2025-01-29,meta_ads,meta,3,Office,traffic,Black Friday,cr_2676,desktop,BA,active,614.03,BRL,1197,41,1,1489.3
+2025-01-30,meta_ads,meta,3,Office,traffic,Black Friday,cr_3493,desktop,SE,active,1517.36,BRL,3571,133,2,2063.54
+2025-01-30,meta_ads,meta,1,Empresarial,conversions,IPTU 0,cr_6507,mobile,RN,active,394.15,BRL,2885,103,3,4915.58
+2025-01-30,meta_ads,meta,4,Apartamento,conversions,Black Friday,cr_9527,desktop,SE,active,772.4,BRL,5319,60,2,1831.23
+2025-01-30,meta_ads,meta,5,Casa,awareness,Remarketing,cr_8035,mobile,CE,active,1623.96,BRL,2882,86,3,2650.28
+2025-01-30,meta_ads,meta,5,Casa,awareness,Promo Janeiro,cr_5650,mobile,SE,active,933.98,BRL,2734,87,2,2255.97
+2025-01-30,meta_ads,meta,4,Apartamento,conversions,Promo Janeiro,cr_3534,mobile,BA,active,653.69,BRL,5078,184,2,2037.65
+2025-01-30,meta_ads,meta,4,Apartamento,conversions,IPTU 0,cr_1230,desktop,AL,active,1071.79,BRL,4990,106,3,5258.51
+2025-01-30,meta_ads,meta,3,Office,traffic,Lançamento,cr_2334,mobile,BA,active,452.41,BRL,2681,49,2,3097.27
+2025-01-30,meta_ads,meta,3,Office,traffic,Lançamento,cr_3987,mobile,PE,active,1971.72,BRL,3716,81,2,2833.4
+2025-01-30,meta_ads,meta,1,Empresarial,conversions,Promo Janeiro,cr_5536,mobile,AL,active,1551.94,BRL,1173,14,0,0.0

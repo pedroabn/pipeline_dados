@@ -1,0 +1,301 @@
+date,channel,platform,campaign_id,campaign,objective,ad_group,creative_id,device,region,status,budget_daily,currency,impressions,clicks,conversions,revenue
+2025-01-01,email,email,1,Empresarial,conversions,Black Friday,cr_5073,mobile,BA,active,633.5,BRL,1198,277,10,10298.43
+2025-01-01,email,email,4,Apartamento,conversions,Lançamento,cr_5561,desktop,SE,active,824.5,BRL,1167,228,4,5625.65
+2025-01-01,email,email,2,Condominio,conversions,IPTU 0,cr_6847,mobile,AL,active,719.03,BRL,1419,380,17,10618.16
+2025-01-01,email,email,5,Casa,awareness,Promo Janeiro,cr_1513,desktop,PE,active,1105.75,BRL,1253,301,14,14267.79
+2025-01-01,email,email,1,Empresarial,conversions,IPTU 0,cr_7331,desktop,SE,active,1521.93,BRL,943,190,10,6431.19
+2025-01-01,email,email,2,Condominio,conversions,Remarketing,cr_9252,desktop,BA,active,849.65,BRL,999,240,8,5066.51
+2025-01-01,email,email,3,Office,traffic,Lançamento,cr_9395,mobile,RN,active,435.04,BRL,426,107,3,2179.79
+2025-01-01,email,email,5,Casa,awareness,IPTU 0,cr_7364,mobile,PE,active,1365.79,BRL,403,49,2,1690.98
+2025-01-01,email,email,2,Condominio,conversions,Promo Janeiro,cr_4221,mobile,SE,active,564.81,BRL,292,80,1,1495.11
+2025-01-01,email,email,5,Casa,awareness,IPTU 0,cr_5410,desktop,CE,active,1795.35,BRL,1431,309,12,10854.59
+2025-01-02,email,email,5,Casa,awareness,Remarketing,cr_1708,desktop,CE,active,1679.82,BRL,813,217,9,8237.88
+2025-01-02,email,email,2,Condominio,conversions,Promo Janeiro,cr_6950,mobile,BA,active,894.21,BRL,1301,340,9,11176.45
+2025-01-02,email,email,5,Casa,awareness,Lançamento,cr_1020,mobile,CE,active,1271.72,BRL,944,250,6,4995.38
+2025-01-02,email,email,5,Casa,awareness,Promo Janeiro,cr_9855,mobile,SE,active,1851.76,BRL,1332,151,4,3348.48
+2025-01-02,email,email,1,Empresarial,conversions,Remarketing,cr_8077,desktop,BA,active,706.37,BRL,1237,215,10,13869.21
+2025-01-02,email,email,1,Empresarial,conversions,Promo Janeiro,cr_9439,desktop,CE,active,396.03,BRL,761,89,4,3082.88
+2025-01-02,email,email,4,Apartamento,conversions,Remarketing,cr_8413,mobile,CE,active,503.01,BRL,997,246,6,6687.82
+2025-01-02,email,email,2,Condominio,conversions,Black Friday,cr_9838,desktop,RN,active,749.35,BRL,200,49,1,1078.04
+2025-01-02,email,email,1,Empresarial,conversions,Promo Janeiro,cr_5882,mobile,CE,active,1799.94,BRL,828,128,4,4099.08
+2025-01-02,email,email,1,Empresarial,conversions,IPTU 0,cr_8885,desktop,BA,active,1865.92,BRL,1088,218,6,5110.07
+2025-01-03,email,email,2,Condominio,conversions,Black Friday,cr_1812,mobile,AL,active,1570.31,BRL,597,156,8,11139.8
+2025-01-03,email,email,3,Office,traffic,IPTU 0,cr_4425,desktop,PE,active,1308.4,BRL,464,88,4,4929.08
+2025-01-03,email,email,4,Apartamento,conversions,Lançamento,cr_6749,desktop,PE,active,299.72,BRL,981,260,12,7665.56
+2025-01-03,email,email,3,Office,traffic,Remarketing,cr_4468,desktop,PE,active,478.67,BRL,1167,124,3,2976.22
+2025-01-03,email,email,3,Office,traffic,Black Friday,cr_5072,desktop,BA,active,1425.71,BRL,837,183,6,3752.75
+2025-01-03,email,email,2,Condominio,conversions,Lançamento,cr_7219,desktop,RN,active,1561.23,BRL,773,125,3,1931.21
+2025-01-03,email,email,3,Office,traffic,Black Friday,cr_8984,desktop,PE,active,1458.96,BRL,488,125,5,4304.03
+2025-01-03,email,email,4,Apartamento,conversions,Lançamento,cr_8094,mobile,CE,active,1661.74,BRL,292,61,2,2472.4
+2025-01-03,email,email,4,Apartamento,conversions,Lançamento,cr_4307,desktop,RN,active,1122.49,BRL,951,201,5,4207.75
+2025-01-03,email,email,2,Condominio,conversions,Promo Janeiro,cr_6671,mobile,BA,active,1763.73,BRL,1430,265,12,9543.19
+2025-01-04,email,email,5,Casa,awareness,IPTU 0,cr_8959,mobile,BA,active,801.57,BRL,443,109,3,3561.77
+2025-01-04,email,email,3,Office,traffic,Lançamento,cr_2987,desktop,BA,active,944.55,BRL,279,51,1,929.86
+2025-01-04,email,email,1,Empresarial,conversions,IPTU 0,cr_1435,mobile,BA,active,1350.78,BRL,1190,177,7,8382.1
+2025-01-04,email,email,2,Condominio,conversions,Remarketing,cr_3658,mobile,BA,active,1359.88,BRL,1332,350,18,13315.58
+2025-01-04,email,email,2,Condominio,conversions,IPTU 0,cr_4812,desktop,RN,active,804.74,BRL,270,34,1,1304.4
+2025-01-04,email,email,5,Casa,awareness,Promo Janeiro,cr_5603,desktop,RN,active,1099.69,BRL,919,147,5,3507.26
+2025-01-04,email,email,5,Casa,awareness,Lançamento,cr_3084,mobile,AL,active,1942.58,BRL,464,54,1,1126.87
+2025-01-04,email,email,3,Office,traffic,Lançamento,cr_4954,mobile,PE,active,1365.93,BRL,905,227,5,6405.41
+2025-01-04,email,email,4,Apartamento,conversions,IPTU 0,cr_4343,desktop,CE,active,1056.44,BRL,742,128,4,3204.93
+2025-01-04,email,email,4,Apartamento,conversions,Black Friday,cr_4963,desktop,RN,active,859.15,BRL,632,164,7,7367.77
+2025-01-05,email,email,1,Empresarial,conversions,Black Friday,cr_7172,mobile,BA,active,882.2,BRL,547,109,4,3492.18
+2025-01-05,email,email,1,Empresarial,conversions,IPTU 0,cr_7947,mobile,RN,active,1759.32,BRL,847,115,3,4474.66
+2025-01-05,email,email,2,Condominio,conversions,Remarketing,cr_2471,mobile,CE,active,536.45,BRL,631,118,4,4853.44
+2025-01-05,email,email,1,Empresarial,conversions,Black Friday,cr_9821,desktop,SE,active,1955.73,BRL,433,90,2,1730.38
+2025-01-05,email,email,3,Office,traffic,Promo Janeiro,cr_6968,mobile,SE,active,1175.91,BRL,1185,154,8,9382.49
+2025-01-05,email,email,2,Condominio,conversions,Black Friday,cr_7517,desktop,SE,active,701.74,BRL,705,102,5,5399.21
+2025-01-05,email,email,3,Office,traffic,Lançamento,cr_6793,desktop,SE,active,578.01,BRL,1164,137,7,5600.08
+2025-01-05,email,email,4,Apartamento,conversions,Black Friday,cr_9165,mobile,SE,active,1789.95,BRL,1338,195,11,8588.74
+2025-01-05,email,email,2,Condominio,conversions,IPTU 0,cr_3120,desktop,AL,active,474.27,BRL,858,182,10,11622.13
+2025-01-05,email,email,3,Office,traffic,Remarketing,cr_1050,desktop,BA,active,363.12,BRL,457,134,5,4778.8
+2025-01-06,email,email,2,Condominio,conversions,Lançamento,cr_9799,desktop,BA,active,1726.47,BRL,1092,220,12,14610.71
+2025-01-06,email,email,1,Empresarial,conversions,Black Friday,cr_3991,mobile,RN,active,912.52,BRL,1197,196,7,6149.56
+2025-01-06,email,email,3,Office,traffic,Remarketing,cr_5361,desktop,RN,active,102.55,BRL,1268,156,4,4973.3
+2025-01-06,email,email,3,Office,traffic,Remarketing,cr_2119,mobile,RN,active,449.46,BRL,795,161,3,2347.83
+2025-01-06,email,email,4,Apartamento,conversions,Lançamento,cr_5493,mobile,BA,active,1938.63,BRL,1474,353,13,11470.2
+2025-01-06,email,email,1,Empresarial,conversions,Remarketing,cr_6053,mobile,PE,active,661.41,BRL,1004,163,7,9783.89
+2025-01-06,email,email,4,Apartamento,conversions,IPTU 0,cr_2803,desktop,CE,active,944.63,BRL,712,92,4,2417.89
+2025-01-06,email,email,4,Apartamento,conversions,Black Friday,cr_7980,desktop,CE,active,424.14,BRL,369,63,3,2123.67
+2025-01-06,email,email,4,Apartamento,conversions,IPTU 0,cr_3967,mobile,SE,active,1562.58,BRL,1292,358,16,22045.6
+2025-01-06,email,email,1,Empresarial,conversions,Remarketing,cr_5159,desktop,PE,active,293.99,BRL,1300,307,12,12872.42
+2025-01-07,email,email,4,Apartamento,conversions,Remarketing,cr_9488,desktop,PE,active,1554.55,BRL,283,43,1,1160.37
+2025-01-07,email,email,5,Casa,awareness,Remarketing,cr_1640,desktop,AL,active,498.35,BRL,440,131,7,7546.27
+2025-01-07,email,email,3,Office,traffic,IPTU 0,cr_8499,desktop,PE,active,1176.35,BRL,860,123,3,2332.8
+2025-01-07,email,email,3,Office,traffic,Black Friday,cr_4949,mobile,BA,active,666.27,BRL,1022,184,9,7233.04
+2025-01-07,email,email,1,Empresarial,conversions,Lançamento,cr_8954,mobile,BA,active,114.35,BRL,787,176,7,9769.14
+2025-01-07,email,email,5,Casa,awareness,Lançamento,cr_5414,mobile,BA,active,772.08,BRL,1057,255,14,18160.54
+2025-01-07,email,email,4,Apartamento,conversions,Promo Janeiro,cr_5617,mobile,BA,active,1820.05,BRL,1296,302,13,11872.94
+2025-01-07,email,email,4,Apartamento,conversions,Black Friday,cr_9515,desktop,BA,active,1900.42,BRL,949,107,3,3792.8
+2025-01-07,email,email,5,Casa,awareness,Black Friday,cr_9440,desktop,RN,active,1262.4,BRL,1053,168,4,2669.63
+2025-01-07,email,email,4,Apartamento,conversions,Promo Janeiro,cr_4971,mobile,RN,active,1456.64,BRL,1381,332,18,25602.1
+2025-01-08,email,email,1,Empresarial,conversions,Promo Janeiro,cr_6589,desktop,SE,active,914.26,BRL,602,136,5,5002.13
+2025-01-08,email,email,2,Condominio,conversions,Promo Janeiro,cr_2106,desktop,PE,active,697.73,BRL,1416,324,14,19658.46
+2025-01-08,email,email,3,Office,traffic,IPTU 0,cr_2212,desktop,AL,active,1102.62,BRL,738,220,5,4220.99
+2025-01-08,email,email,5,Casa,awareness,Lançamento,cr_4906,mobile,PE,active,1629.61,BRL,1422,166,7,7973.52
+2025-01-08,email,email,2,Condominio,conversions,Promo Janeiro,cr_4048,desktop,PE,active,1263.75,BRL,590,164,8,7422.38
+2025-01-08,email,email,2,Condominio,conversions,Promo Janeiro,cr_1782,desktop,AL,active,1409.39,BRL,796,220,6,5972.33
+2025-01-08,email,email,1,Empresarial,conversions,Black Friday,cr_1661,mobile,SE,active,1519.09,BRL,810,148,7,6052.78
+2025-01-08,email,email,4,Apartamento,conversions,IPTU 0,cr_5842,desktop,CE,active,1758.32,BRL,1318,323,13,14227.31
+2025-01-08,email,email,4,Apartamento,conversions,Black Friday,cr_8106,mobile,RN,active,986.4,BRL,998,252,11,9047.36
+2025-01-08,email,email,4,Apartamento,conversions,Black Friday,cr_1418,mobile,PE,active,1203.09,BRL,1187,201,7,8821.94
+2025-01-09,email,email,3,Office,traffic,Lançamento,cr_9458,mobile,AL,active,623.95,BRL,458,79,3,3017.7
+2025-01-09,email,email,5,Casa,awareness,IPTU 0,cr_4548,desktop,PE,active,263.23,BRL,612,124,2,2935.31
+2025-01-09,email,email,5,Casa,awareness,Promo Janeiro,cr_8599,mobile,SE,active,845.39,BRL,824,120,3,4011.62
+2025-01-09,email,email,5,Casa,awareness,Remarketing,cr_3330,desktop,AL,active,1968.79,BRL,432,45,2,2731.6
+2025-01-09,email,email,3,Office,traffic,IPTU 0,cr_9326,mobile,BA,active,1071.47,BRL,808,151,8,5196.34
+2025-01-09,email,email,2,Condominio,conversions,Remarketing,cr_4996,desktop,RN,active,196.63,BRL,961,109,5,6674.5
+2025-01-09,email,email,3,Office,traffic,IPTU 0,cr_1908,mobile,AL,active,1588.75,BRL,691,203,7,5033.29
+2025-01-09,email,email,5,Casa,awareness,Promo Janeiro,cr_1394,mobile,SE,active,1328.18,BRL,271,37,1,803.47
+2025-01-09,email,email,1,Empresarial,conversions,Promo Janeiro,cr_4045,desktop,CE,active,1192.18,BRL,391,101,5,5720.65
+2025-01-09,email,email,5,Casa,awareness,Lançamento,cr_5086,mobile,SE,active,404.85,BRL,875,230,12,9737.26
+2025-01-10,email,email,4,Apartamento,conversions,IPTU 0,cr_8535,mobile,CE,active,670.08,BRL,992,100,3,2997.53
+2025-01-10,email,email,2,Condominio,conversions,Lançamento,cr_2330,desktop,CE,active,1929.2,BRL,1145,150,5,5482.4
+2025-01-10,email,email,5,Casa,awareness,IPTU 0,cr_6851,mobile,BA,active,1192.58,BRL,361,68,2,1526.62
+2025-01-10,email,email,2,Condominio,conversions,Promo Janeiro,cr_1639,desktop,CE,active,1370.75,BRL,1195,168,9,10062.9
+2025-01-10,email,email,5,Casa,awareness,Lançamento,cr_5686,mobile,BA,active,475.19,BRL,691,81,3,2305.97
+2025-01-10,email,email,1,Empresarial,conversions,Remarketing,cr_6821,mobile,PE,active,109.45,BRL,528,72,2,2560.38
+2025-01-10,email,email,5,Casa,awareness,IPTU 0,cr_2790,desktop,BA,active,1504.84,BRL,363,70,2,1816.55
+2025-01-10,email,email,1,Empresarial,conversions,Lançamento,cr_8630,desktop,BA,active,1802.01,BRL,797,211,7,6037.4
+2025-01-10,email,email,4,Apartamento,conversions,Promo Janeiro,cr_3930,desktop,AL,active,1352.6,BRL,694,117,2,1254.51
+2025-01-10,email,email,1,Empresarial,conversions,Promo Janeiro,cr_8562,mobile,PE,active,1174.07,BRL,975,255,12,10736.53
+2025-01-11,email,email,2,Condominio,conversions,IPTU 0,cr_7533,mobile,AL,active,180.5,BRL,393,91,5,5066.87
+2025-01-11,email,email,4,Apartamento,conversions,Lançamento,cr_8241,mobile,RN,active,287.61,BRL,1097,187,8,8953.1
+2025-01-11,email,email,1,Empresarial,conversions,Black Friday,cr_2424,mobile,SE,active,1748.46,BRL,688,149,6,3747.96
+2025-01-11,email,email,3,Office,traffic,Promo Janeiro,cr_9027,desktop,PE,active,592.97,BRL,1268,258,7,10200.28
+2025-01-11,email,email,3,Office,traffic,Promo Janeiro,cr_2652,desktop,BA,active,215.15,BRL,1415,374,8,11641.48
+2025-01-11,email,email,3,Office,traffic,IPTU 0,cr_2786,mobile,RN,active,615.21,BRL,699,109,5,4900.22
+2025-01-11,email,email,5,Casa,awareness,IPTU 0,cr_4853,desktop,AL,active,1646.23,BRL,1139,235,6,7000.75
+2025-01-11,email,email,2,Condominio,conversions,Black Friday,cr_5718,mobile,BA,active,1961.63,BRL,459,55,3,2135.24
+2025-01-11,email,email,2,Condominio,conversions,Lançamento,cr_4329,desktop,PE,active,1847.55,BRL,1403,409,17,14601.39
+2025-01-11,email,email,3,Office,traffic,Promo Janeiro,cr_7151,desktop,PE,active,1566.91,BRL,354,99,4,2563.67
+2025-01-12,email,email,3,Office,traffic,Remarketing,cr_8081,mobile,RN,active,1363.84,BRL,264,67,2,2541.42
+2025-01-12,email,email,2,Condominio,conversions,Remarketing,cr_3360,mobile,PE,active,306.65,BRL,830,121,6,8803.4
+2025-01-12,email,email,3,Office,traffic,Promo Janeiro,cr_8417,desktop,AL,active,1191.35,BRL,1252,339,19,14702.41
+2025-01-12,email,email,4,Apartamento,conversions,Black Friday,cr_3691,mobile,CE,active,506.53,BRL,1109,325,18,23512.32
+2025-01-12,email,email,1,Empresarial,conversions,Promo Janeiro,cr_2052,desktop,AL,active,273.83,BRL,494,95,4,4113.71
+2025-01-12,email,email,4,Apartamento,conversions,Remarketing,cr_9565,desktop,SE,active,1179.99,BRL,1054,241,7,6231.1
+2025-01-12,email,email,2,Condominio,conversions,IPTU 0,cr_7130,desktop,CE,active,316.32,BRL,838,156,6,4075.56
+2025-01-12,email,email,4,Apartamento,conversions,Promo Janeiro,cr_8677,mobile,BA,active,789.48,BRL,817,228,11,15684.46
+2025-01-12,email,email,2,Condominio,conversions,Remarketing,cr_2122,mobile,BA,active,611.08,BRL,302,30,0,0.0
+2025-01-12,email,email,2,Condominio,conversions,Promo Janeiro,cr_3536,mobile,PE,active,725.58,BRL,878,118,4,2928.79
+2025-01-13,email,email,3,Office,traffic,Remarketing,cr_3948,desktop,RN,active,247.33,BRL,766,194,6,7595.16
+2025-01-13,email,email,4,Apartamento,conversions,Promo Janeiro,cr_6471,desktop,CE,active,886.33,BRL,782,156,5,6164.8
+2025-01-13,email,email,1,Empresarial,conversions,Lançamento,cr_7264,desktop,SE,active,1551.62,BRL,1327,349,13,17788.84
+2025-01-13,email,email,2,Condominio,conversions,Lançamento,cr_8090,desktop,AL,active,1041.43,BRL,1086,242,11,12784.72
+2025-01-13,email,email,4,Apartamento,conversions,Promo Janeiro,cr_9432,mobile,CE,active,144.49,BRL,1499,409,21,29891.99
+2025-01-13,email,email,1,Empresarial,conversions,Promo Janeiro,cr_7665,mobile,BA,active,558.47,BRL,519,151,5,5342.37
+2025-01-13,email,email,2,Condominio,conversions,Lançamento,cr_7792,desktop,CE,active,1708.1,BRL,627,117,4,2772.38
+2025-01-13,email,email,3,Office,traffic,Remarketing,cr_1144,desktop,BA,active,1603.09,BRL,416,99,3,3058.18
+2025-01-13,email,email,1,Empresarial,conversions,Remarketing,cr_3633,mobile,PE,active,339.23,BRL,902,215,12,11287.89
+2025-01-13,email,email,4,Apartamento,conversions,Remarketing,cr_5583,desktop,BA,active,749.07,BRL,863,213,8,10040.88
+2025-01-14,email,email,1,Empresarial,conversions,Promo Janeiro,cr_2790,desktop,RN,active,1222.11,BRL,925,198,4,4315.6
+2025-01-14,email,email,3,Office,traffic,Lançamento,cr_6708,mobile,BA,active,1811.72,BRL,1229,362,12,8123.62
+2025-01-14,email,email,3,Office,traffic,Lançamento,cr_5357,desktop,RN,active,1023.27,BRL,1124,134,2,1968.97
+2025-01-14,email,email,1,Empresarial,conversions,Promo Janeiro,cr_7696,desktop,PE,active,541.34,BRL,320,94,4,4733.38
+2025-01-14,email,email,2,Condominio,conversions,Lançamento,cr_1957,desktop,AL,active,331.78,BRL,1241,129,5,4455.14
+2025-01-14,email,email,3,Office,traffic,Lançamento,cr_7611,mobile,CE,active,405.64,BRL,1049,127,3,4273.01
+2025-01-14,email,email,1,Empresarial,conversions,Promo Janeiro,cr_3309,mobile,PE,active,1218.79,BRL,460,107,5,5276.34
+2025-01-14,email,email,4,Apartamento,conversions,Remarketing,cr_8369,mobile,SE,active,1113.24,BRL,483,80,3,2052.1
+2025-01-14,email,email,1,Empresarial,conversions,Lançamento,cr_2922,desktop,SE,active,205.66,BRL,718,144,4,4634.79
+2025-01-14,email,email,3,Office,traffic,Lançamento,cr_2079,mobile,PE,active,662.3,BRL,1474,350,7,7815.2
+2025-01-15,email,email,1,Empresarial,conversions,Remarketing,cr_5907,desktop,CE,active,1921.09,BRL,360,72,1,1449.85
+2025-01-15,email,email,2,Condominio,conversions,Promo Janeiro,cr_8489,desktop,BA,active,1326.95,BRL,696,80,3,2280.13
+2025-01-15,email,email,4,Apartamento,conversions,Remarketing,cr_1197,mobile,BA,active,973.85,BRL,1111,303,7,6029.17
+2025-01-15,email,email,5,Casa,awareness,Remarketing,cr_4367,desktop,PE,active,1831.92,BRL,1171,203,8,10931.25
+2025-01-15,email,email,4,Apartamento,conversions,Remarketing,cr_2256,desktop,CE,active,1941.9,BRL,1298,288,12,8622.67
+2025-01-15,email,email,3,Office,traffic,Remarketing,cr_6672,desktop,CE,active,1201.07,BRL,753,151,5,7484.62
+2025-01-15,email,email,2,Condominio,conversions,IPTU 0,cr_4838,mobile,RN,active,484.83,BRL,504,74,3,1942.07
+2025-01-15,email,email,4,Apartamento,conversions,Lançamento,cr_7328,desktop,CE,active,1434.84,BRL,779,171,10,6279.91
+2025-01-15,email,email,4,Apartamento,conversions,Remarketing,cr_3032,mobile,AL,active,212.26,BRL,912,203,4,4569.18
+2025-01-15,email,email,4,Apartamento,conversions,Remarketing,cr_5303,desktop,BA,active,114.42,BRL,662,193,9,10377.95
+2025-01-16,email,email,1,Empresarial,conversions,Black Friday,cr_1055,mobile,CE,active,277.24,BRL,887,185,8,7004.99
+2025-01-16,email,email,3,Office,traffic,Lançamento,cr_9906,mobile,PE,active,1568.17,BRL,907,229,9,11056.5
+2025-01-16,email,email,3,Office,traffic,Remarketing,cr_7694,desktop,BA,active,832.98,BRL,1476,371,9,8482.89
+2025-01-16,email,email,2,Condominio,conversions,IPTU 0,cr_4429,mobile,SE,active,1752.18,BRL,1183,286,8,10396.85
+2025-01-16,email,email,2,Condominio,conversions,Black Friday,cr_5032,mobile,BA,active,383.26,BRL,995,134,2,1329.24
+2025-01-16,email,email,1,Empresarial,conversions,Black Friday,cr_4695,mobile,CE,active,1770.21,BRL,597,90,3,2400.74
+2025-01-16,email,email,5,Casa,awareness,Lançamento,cr_9010,mobile,AL,active,1363.6,BRL,1123,152,8,9308.73
+2025-01-16,email,email,4,Apartamento,conversions,Black Friday,cr_8132,mobile,CE,active,294.07,BRL,411,50,1,1476.33
+2025-01-16,email,email,5,Casa,awareness,IPTU 0,cr_7553,desktop,PE,active,604.11,BRL,1311,171,3,3552.41
+2025-01-16,email,email,1,Empresarial,conversions,Promo Janeiro,cr_5645,desktop,SE,active,548.84,BRL,1073,218,12,10173.34
+2025-01-17,email,email,5,Casa,awareness,Promo Janeiro,cr_2517,desktop,PE,active,1763.8,BRL,1410,189,6,5964.68
+2025-01-17,email,email,1,Empresarial,conversions,IPTU 0,cr_8577,mobile,PE,active,736.89,BRL,1484,311,12,10354.26
+2025-01-17,email,email,1,Empresarial,conversions,Remarketing,cr_6828,desktop,AL,active,218.53,BRL,1157,218,12,10162.88
+2025-01-17,email,email,2,Condominio,conversions,Promo Janeiro,cr_6227,desktop,RN,active,1685.77,BRL,622,139,8,11086.14
+2025-01-17,email,email,2,Condominio,conversions,IPTU 0,cr_3399,desktop,BA,active,216.3,BRL,767,148,6,6210.44
+2025-01-17,email,email,2,Condominio,conversions,Black Friday,cr_1887,desktop,SE,active,809.68,BRL,1190,290,7,5657.87
+2025-01-17,email,email,3,Office,traffic,Remarketing,cr_4337,desktop,BA,active,188.11,BRL,1274,348,11,7378.17
+2025-01-17,email,email,4,Apartamento,conversions,Promo Janeiro,cr_6994,desktop,PE,active,724.67,BRL,397,111,5,3169.54
+2025-01-17,email,email,3,Office,traffic,Black Friday,cr_4465,mobile,PE,active,1488.25,BRL,863,196,8,10535.95
+2025-01-17,email,email,4,Apartamento,conversions,Lançamento,cr_9238,desktop,PE,active,532.85,BRL,659,163,3,4416.49
+2025-01-18,email,email,1,Empresarial,conversions,Remarketing,cr_1025,mobile,PE,active,1355.78,BRL,389,110,5,5256.27
+2025-01-18,email,email,5,Casa,awareness,Black Friday,cr_5671,mobile,PE,active,1759.8,BRL,490,104,3,3628.74
+2025-01-18,email,email,4,Apartamento,conversions,IPTU 0,cr_7563,mobile,PE,active,1657.39,BRL,887,117,4,4620.68
+2025-01-18,email,email,5,Casa,awareness,Black Friday,cr_8396,desktop,CE,active,1338.97,BRL,695,84,3,2064.58
+2025-01-18,email,email,2,Condominio,conversions,Promo Janeiro,cr_7720,desktop,CE,active,857.84,BRL,307,57,2,2842.82
+2025-01-18,email,email,2,Condominio,conversions,Lançamento,cr_9840,desktop,PE,active,1028.88,BRL,1407,282,15,10195.78
+2025-01-18,email,email,4,Apartamento,conversions,Lançamento,cr_1761,mobile,PE,active,1735.06,BRL,663,123,3,2694.15
+2025-01-18,email,email,5,Casa,awareness,Promo Janeiro,cr_2550,desktop,CE,active,1605.63,BRL,707,151,6,8978.19
+2025-01-18,email,email,3,Office,traffic,Black Friday,cr_9438,mobile,CE,active,515.15,BRL,902,198,7,4689.84
+2025-01-18,email,email,1,Empresarial,conversions,Remarketing,cr_8671,mobile,PE,active,331.5,BRL,1487,394,8,10304.29
+2025-01-19,email,email,3,Office,traffic,Black Friday,cr_7751,desktop,CE,active,1175.78,BRL,419,76,3,3625.31
+2025-01-19,email,email,2,Condominio,conversions,Lançamento,cr_2570,desktop,CE,active,1574.02,BRL,255,53,2,2422.7
+2025-01-19,email,email,2,Condominio,conversions,Remarketing,cr_8234,desktop,CE,active,1690.9,BRL,718,156,8,6568.46
+2025-01-19,email,email,1,Empresarial,conversions,Remarketing,cr_5024,desktop,PE,active,1389.51,BRL,1243,159,8,10518.42
+2025-01-19,email,email,4,Apartamento,conversions,Remarketing,cr_3464,mobile,BA,active,1019.23,BRL,755,180,7,8725.68
+2025-01-19,email,email,5,Casa,awareness,Black Friday,cr_8069,desktop,SE,active,410.61,BRL,1104,278,11,8041.4
+2025-01-19,email,email,2,Condominio,conversions,Remarketing,cr_9912,desktop,BA,active,357.64,BRL,678,89,2,2267.27
+2025-01-19,email,email,1,Empresarial,conversions,IPTU 0,cr_8920,desktop,SE,active,211.92,BRL,427,47,2,1862.75
+2025-01-19,email,email,3,Office,traffic,IPTU 0,cr_4849,mobile,SE,active,1024.81,BRL,939,246,13,8308.97
+2025-01-19,email,email,5,Casa,awareness,Black Friday,cr_2249,mobile,BA,active,289.1,BRL,1184,138,4,2660.0
+2025-01-20,email,email,5,Casa,awareness,Black Friday,cr_1417,desktop,SE,active,470.36,BRL,1111,233,10,8563.23
+2025-01-20,email,email,4,Apartamento,conversions,IPTU 0,cr_3599,mobile,PE,active,1713.72,BRL,852,225,10,11781.49
+2025-01-20,email,email,4,Apartamento,conversions,IPTU 0,cr_1362,desktop,RN,active,733.03,BRL,205,21,1,1232.29
+2025-01-20,email,email,4,Apartamento,conversions,IPTU 0,cr_3356,desktop,RN,active,882.35,BRL,1184,209,6,5186.66
+2025-01-20,email,email,4,Apartamento,conversions,Remarketing,cr_5565,mobile,BA,active,126.66,BRL,987,283,11,14075.72
+2025-01-20,email,email,4,Apartamento,conversions,Remarketing,cr_1626,mobile,AL,active,598.79,BRL,1265,209,9,9615.87
+2025-01-20,email,email,2,Condominio,conversions,IPTU 0,cr_5903,desktop,RN,active,206.25,BRL,1242,276,10,6415.69
+2025-01-20,email,email,4,Apartamento,conversions,Promo Janeiro,cr_4979,desktop,PE,active,1339.22,BRL,563,140,8,7727.16
+2025-01-20,email,email,2,Condominio,conversions,Promo Janeiro,cr_2986,desktop,PE,active,1364.64,BRL,717,150,6,7399.81
+2025-01-20,email,email,5,Casa,awareness,Remarketing,cr_5258,desktop,BA,active,1753.61,BRL,918,188,6,7705.78
+2025-01-21,email,email,2,Condominio,conversions,IPTU 0,cr_2182,desktop,RN,active,296.09,BRL,1209,130,5,3633.94
+2025-01-21,email,email,4,Apartamento,conversions,Promo Janeiro,cr_5294,desktop,RN,active,1691.17,BRL,261,50,2,2214.3
+2025-01-21,email,email,4,Apartamento,conversions,IPTU 0,cr_3735,desktop,CE,active,722.79,BRL,1446,250,10,7152.19
+2025-01-21,email,email,2,Condominio,conversions,Remarketing,cr_9857,desktop,SE,active,556.18,BRL,1313,203,11,11736.08
+2025-01-21,email,email,5,Casa,awareness,Black Friday,cr_9107,desktop,CE,active,1781.64,BRL,763,171,6,8221.4
+2025-01-21,email,email,1,Empresarial,conversions,IPTU 0,cr_7646,desktop,AL,active,1228.96,BRL,437,95,3,1966.42
+2025-01-21,email,email,3,Office,traffic,Promo Janeiro,cr_1633,mobile,AL,active,869.16,BRL,1380,387,15,11733.78
+2025-01-21,email,email,1,Empresarial,conversions,IPTU 0,cr_6234,desktop,RN,active,331.27,BRL,1471,258,13,18943.69
+2025-01-21,email,email,1,Empresarial,conversions,Lançamento,cr_3394,desktop,SE,active,1706.66,BRL,773,204,9,11057.41
+2025-01-21,email,email,1,Empresarial,conversions,Lançamento,cr_5966,mobile,CE,active,797.87,BRL,633,82,2,2323.1
+2025-01-22,email,email,2,Condominio,conversions,Promo Janeiro,cr_6296,mobile,AL,active,672.6,BRL,990,246,8,4847.28
+2025-01-22,email,email,5,Casa,awareness,IPTU 0,cr_8361,desktop,BA,active,1830.55,BRL,226,51,1,925.29
+2025-01-22,email,email,5,Casa,awareness,Black Friday,cr_7185,desktop,SE,active,1219.9,BRL,297,74,2,2627.13
+2025-01-22,email,email,1,Empresarial,conversions,Remarketing,cr_5736,mobile,CE,active,999.37,BRL,220,34,1,1491.62
+2025-01-22,email,email,2,Condominio,conversions,Remarketing,cr_3436,desktop,CE,active,392.9,BRL,306,42,1,1207.22
+2025-01-22,email,email,4,Apartamento,conversions,Black Friday,cr_2504,desktop,PE,active,183.24,BRL,1015,232,7,6422.45
+2025-01-22,email,email,1,Empresarial,conversions,Remarketing,cr_5490,desktop,BA,active,1136.92,BRL,672,104,5,6935.36
+2025-01-22,email,email,1,Empresarial,conversions,Promo Janeiro,cr_8398,mobile,PE,active,249.09,BRL,1458,237,13,9837.24
+2025-01-22,email,email,5,Casa,awareness,Promo Janeiro,cr_5675,mobile,RN,active,522.62,BRL,969,129,4,5671.13
+2025-01-22,email,email,3,Office,traffic,IPTU 0,cr_9881,desktop,AL,active,1774.21,BRL,330,68,3,3205.71
+2025-01-23,email,email,3,Office,traffic,Promo Janeiro,cr_3076,mobile,AL,active,1456.94,BRL,1166,283,13,14525.4
+2025-01-23,email,email,4,Apartamento,conversions,Remarketing,cr_5046,mobile,SE,active,1683.33,BRL,604,131,6,3916.58
+2025-01-23,email,email,3,Office,traffic,Lançamento,cr_6362,mobile,PE,active,1895.4,BRL,1055,243,8,7817.88
+2025-01-23,email,email,5,Casa,awareness,IPTU 0,cr_8534,mobile,PE,active,1099.3,BRL,1181,121,6,8056.17
+2025-01-23,email,email,3,Office,traffic,Remarketing,cr_7851,mobile,AL,active,1494.79,BRL,850,94,2,1955.94
+2025-01-23,email,email,4,Apartamento,conversions,Black Friday,cr_7667,mobile,SE,active,246.3,BRL,467,139,8,7077.49
+2025-01-23,email,email,5,Casa,awareness,Black Friday,cr_4826,mobile,PE,active,135.91,BRL,604,135,5,7404.59
+2025-01-23,email,email,1,Empresarial,conversions,Black Friday,cr_4904,mobile,PE,active,947.9,BRL,416,54,2,2233.04
+2025-01-23,email,email,3,Office,traffic,Promo Janeiro,cr_3938,mobile,AL,active,404.5,BRL,722,136,5,4372.36
+2025-01-23,email,email,1,Empresarial,conversions,Black Friday,cr_7451,mobile,PE,active,1627.26,BRL,369,63,1,632.13
+2025-01-24,email,email,4,Apartamento,conversions,Remarketing,cr_1942,mobile,PE,active,337.88,BRL,1275,328,6,6123.27
+2025-01-24,email,email,1,Empresarial,conversions,Remarketing,cr_2158,desktop,CE,active,1730.57,BRL,1378,305,8,6268.63
+2025-01-24,email,email,1,Empresarial,conversions,Black Friday,cr_7333,desktop,AL,active,1419.13,BRL,892,199,8,10312.15
+2025-01-24,email,email,5,Casa,awareness,IPTU 0,cr_7732,mobile,RN,active,1556.26,BRL,1014,225,7,8958.92
+2025-01-24,email,email,2,Condominio,conversions,Remarketing,cr_5607,desktop,AL,active,506.3,BRL,553,135,7,8757.2
+2025-01-24,email,email,2,Condominio,conversions,Lançamento,cr_8497,desktop,BA,active,1468.14,BRL,533,104,3,4301.93
+2025-01-24,email,email,4,Apartamento,conversions,Black Friday,cr_7537,desktop,SE,active,762.56,BRL,1499,408,13,13357.03
+2025-01-24,email,email,4,Apartamento,conversions,IPTU 0,cr_9334,mobile,AL,active,725.15,BRL,242,61,2,1926.88
+2025-01-24,email,email,1,Empresarial,conversions,Promo Janeiro,cr_1039,desktop,PE,active,837.94,BRL,413,50,1,602.21
+2025-01-24,email,email,4,Apartamento,conversions,Remarketing,cr_6585,mobile,SE,active,122.8,BRL,551,63,3,3629.39
+2025-01-25,email,email,4,Apartamento,conversions,Promo Janeiro,cr_5075,desktop,CE,active,208.52,BRL,1434,181,8,5881.66
+2025-01-25,email,email,1,Empresarial,conversions,IPTU 0,cr_1732,mobile,RN,active,1167.07,BRL,504,79,1,955.42
+2025-01-25,email,email,1,Empresarial,conversions,IPTU 0,cr_3171,mobile,CE,active,1590.76,BRL,294,74,3,2400.46
+2025-01-25,email,email,2,Condominio,conversions,Lançamento,cr_7994,mobile,RN,active,1247.86,BRL,1155,287,14,15945.98
+2025-01-25,email,email,1,Empresarial,conversions,IPTU 0,cr_8288,mobile,RN,active,1247.76,BRL,1328,338,17,10686.25
+2025-01-25,email,email,3,Office,traffic,Remarketing,cr_1198,mobile,BA,active,1797.44,BRL,501,67,2,2750.92
+2025-01-25,email,email,2,Condominio,conversions,IPTU 0,cr_2760,mobile,SE,active,1324.45,BRL,1135,335,17,20029.23
+2025-01-25,email,email,3,Office,traffic,Promo Janeiro,cr_3641,desktop,AL,active,1309.92,BRL,585,142,4,4470.41
+2025-01-25,email,email,2,Condominio,conversions,Lançamento,cr_5111,mobile,AL,active,602.09,BRL,801,127,7,8927.95
+2025-01-25,email,email,4,Apartamento,conversions,IPTU 0,cr_9259,mobile,RN,active,1046.28,BRL,731,120,5,4193.85
+2025-01-26,email,email,3,Office,traffic,Promo Janeiro,cr_5740,desktop,SE,active,1834.15,BRL,872,235,8,11656.21
+2025-01-26,email,email,4,Apartamento,conversions,Black Friday,cr_1753,mobile,AL,active,1785.23,BRL,1060,207,10,10013.16
+2025-01-26,email,email,3,Office,traffic,Promo Janeiro,cr_9731,mobile,CE,active,778.26,BRL,838,93,3,3546.18
+2025-01-26,email,email,3,Office,traffic,Remarketing,cr_2094,desktop,CE,active,757.4,BRL,1107,239,5,4872.52
+2025-01-26,email,email,5,Casa,awareness,Promo Janeiro,cr_2959,mobile,PE,active,1063.34,BRL,596,73,4,2906.1
+2025-01-26,email,email,2,Condominio,conversions,Black Friday,cr_9441,desktop,RN,active,920.01,BRL,1163,162,4,4618.71
+2025-01-26,email,email,2,Condominio,conversions,Lançamento,cr_4506,mobile,BA,active,1394.86,BRL,559,130,7,6164.59
+2025-01-26,email,email,2,Condominio,conversions,IPTU 0,cr_4428,desktop,BA,active,1958.23,BRL,1417,280,9,13331.57
+2025-01-26,email,email,5,Casa,awareness,IPTU 0,cr_3075,desktop,PE,active,1238.68,BRL,276,55,1,1454.01
+2025-01-26,email,email,1,Empresarial,conversions,IPTU 0,cr_1977,mobile,AL,active,1155.61,BRL,386,57,1,894.95
+2025-01-27,email,email,2,Condominio,conversions,Lançamento,cr_7519,mobile,AL,active,581.08,BRL,697,105,4,5391.55
+2025-01-27,email,email,3,Office,traffic,Black Friday,cr_6699,mobile,AL,active,1693.63,BRL,403,47,2,1336.63
+2025-01-27,email,email,4,Apartamento,conversions,Remarketing,cr_9741,mobile,SE,active,1384.71,BRL,1310,334,10,11079.81
+2025-01-27,email,email,2,Condominio,conversions,IPTU 0,cr_2051,mobile,SE,active,1425.65,BRL,291,76,3,4102.18
+2025-01-27,email,email,3,Office,traffic,Promo Janeiro,cr_8844,desktop,CE,active,1480.05,BRL,341,94,4,3851.9
+2025-01-27,email,email,4,Apartamento,conversions,Promo Janeiro,cr_8028,mobile,PE,active,343.69,BRL,337,73,3,1834.99
+2025-01-27,email,email,2,Condominio,conversions,IPTU 0,cr_5421,desktop,AL,active,244.93,BRL,1082,162,6,4890.58
+2025-01-27,email,email,4,Apartamento,conversions,Promo Janeiro,cr_9234,mobile,AL,active,619.62,BRL,499,143,5,3156.9
+2025-01-27,email,email,5,Casa,awareness,Lançamento,cr_9128,mobile,SE,active,400.02,BRL,901,163,5,6083.72
+2025-01-27,email,email,5,Casa,awareness,IPTU 0,cr_8089,desktop,PE,active,238.86,BRL,677,141,3,4019.05
+2025-01-28,email,email,2,Condominio,conversions,Promo Janeiro,cr_8658,desktop,AL,active,1744.68,BRL,273,76,2,2256.06
+2025-01-28,email,email,2,Condominio,conversions,Black Friday,cr_3321,mobile,SE,active,920.83,BRL,1312,271,8,10991.4
+2025-01-28,email,email,3,Office,traffic,Lançamento,cr_1539,desktop,BA,active,102.35,BRL,1368,163,8,5076.67
+2025-01-28,email,email,4,Apartamento,conversions,Remarketing,cr_1918,mobile,CE,active,315.73,BRL,1309,198,10,7170.06
+2025-01-28,email,email,1,Empresarial,conversions,Lançamento,cr_3354,desktop,PE,active,598.04,BRL,1366,326,18,23405.49
+2025-01-28,email,email,5,Casa,awareness,Promo Janeiro,cr_3874,desktop,CE,active,1564.43,BRL,1101,137,7,5423.48
+2025-01-28,email,email,5,Casa,awareness,Promo Janeiro,cr_6790,desktop,BA,active,1710.3,BRL,817,94,2,1462.56
+2025-01-28,email,email,4,Apartamento,conversions,IPTU 0,cr_1717,mobile,AL,active,553.06,BRL,617,138,6,3833.98
+2025-01-28,email,email,5,Casa,awareness,Promo Janeiro,cr_1972,mobile,SE,active,736.3,BRL,1185,254,12,15096.4
+2025-01-28,email,email,5,Casa,awareness,Remarketing,cr_9414,mobile,CE,active,215.21,BRL,242,52,2,1292.49
+2025-01-29,email,email,5,Casa,awareness,Remarketing,cr_4476,desktop,PE,active,1013.91,BRL,534,101,3,2986.3
+2025-01-29,email,email,5,Casa,awareness,Promo Janeiro,cr_6568,mobile,PE,active,1355.1,BRL,507,135,5,4049.68
+2025-01-29,email,email,4,Apartamento,conversions,Remarketing,cr_7907,mobile,AL,active,675.05,BRL,1100,265,7,9469.85
+2025-01-29,email,email,5,Casa,awareness,Lançamento,cr_6794,mobile,CE,active,217.4,BRL,1400,395,23,20009.07
+2025-01-29,email,email,4,Apartamento,conversions,Lançamento,cr_3502,desktop,CE,active,259.87,BRL,968,101,4,3689.38
+2025-01-29,email,email,1,Empresarial,conversions,Lançamento,cr_7642,desktop,PE,active,1700.34,BRL,474,68,1,1174.86
+2025-01-29,email,email,1,Empresarial,conversions,Promo Janeiro,cr_6712,mobile,AL,active,1601.97,BRL,518,88,4,5308.53
+2025-01-29,email,email,4,Apartamento,conversions,Lançamento,cr_6950,desktop,RN,active,777.84,BRL,1359,153,7,10170.32
+2025-01-29,email,email,3,Office,traffic,Black Friday,cr_8754,desktop,AL,active,1012.12,BRL,672,109,6,5505.76
+2025-01-29,email,email,4,Apartamento,conversions,Black Friday,cr_4932,desktop,CE,active,878.74,BRL,384,75,2,1441.85
+2025-01-30,email,email,1,Empresarial,conversions,Promo Janeiro,cr_2963,mobile,SE,active,255.09,BRL,1354,171,3,3289.77
+2025-01-30,email,email,4,Apartamento,conversions,Lançamento,cr_3137,mobile,BA,active,1078.32,BRL,513,124,6,3999.87
+2025-01-30,email,email,1,Empresarial,conversions,Promo Janeiro,cr_2165,mobile,PE,active,1673.69,BRL,472,99,3,2388.07
+2025-01-30,email,email,3,Office,traffic,Lançamento,cr_4646,mobile,PE,active,111.1,BRL,795,215,12,17782.86
+2025-01-30,email,email,3,Office,traffic,Remarketing,cr_1460,desktop,AL,active,143.57,BRL,964,270,7,5998.18
+2025-01-30,email,email,2,Condominio,conversions,IPTU 0,cr_2577,desktop,SE,active,1366.85,BRL,1041,216,6,6622.06
+2025-01-30,email,email,1,Empresarial,conversions,Black Friday,cr_5468,desktop,PE,active,1429.35,BRL,693,147,7,7800.12
+2025-01-30,email,email,1,Empresarial,conversions,Remarketing,cr_2940,desktop,SE,active,1618.98,BRL,1399,246,7,6708.2
+2025-01-30,email,email,3,Office,traffic,Lançamento,cr_6721,desktop,AL,active,175.17,BRL,1012,103,4,5822.23
+2025-01-30,email,email,5,Casa,awareness,Lançamento,cr_9536,mobile,CE,active,1203.49,BRL,448,113,6,6207.65

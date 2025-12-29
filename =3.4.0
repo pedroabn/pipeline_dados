@@ -1,0 +1,2 @@
+Requirement already satisfied: pyspark in c:\users\pedro\anaconda3\envs\brilha\lib\site-packages (4.1.0)
+Requirement already satisfied: py4j<0.10.9.10,>=0.10.9.7 in c:\users\pedro\anaconda3\envs\brilha\lib\site-packages (from pyspark) (0.10.9.9)

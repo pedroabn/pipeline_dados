@@ -1,0 +1,301 @@
+date,channel,platform,campaign_id,campaign,objective,ad_group,creative_id,device,region,status,budget_daily,currency,impressions,clicks,conversions,revenue
+2025-01-01,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_2186,mobile,RN,active,811.83,BRL,1767,98,5,8513.66
+2025-01-01,google_ads,google,5,Casa,awareness,Lançamento,cr_3405,mobile,PE,active,1167.72,BRL,2005,80,2,3763.58
+2025-01-01,google_ads,google,4,Apartamento,conversions,Black Friday,cr_1521,mobile,RN,active,569.23,BRL,532,27,1,1172.52
+2025-01-01,google_ads,google,3,Office,traffic,Lançamento,cr_4122,mobile,BA,active,196.93,BRL,3919,82,3,2504.54
+2025-01-01,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_3483,mobile,RN,active,1090.96,BRL,760,37,2,2747.42
+2025-01-01,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_6651,mobile,CE,active,1158.31,BRL,3418,97,7,9337.92
+2025-01-01,google_ads,google,2,Condominio,conversions,Lançamento,cr_8789,desktop,CE,active,1964.44,BRL,2568,75,3,4559.72
+2025-01-01,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_6436,mobile,AL,active,1582.54,BRL,1536,83,4,3926.06
+2025-01-01,google_ads,google,1,Empresarial,conversions,Lançamento,cr_8224,desktop,PE,active,152.3,BRL,739,44,2,1977.41
+2025-01-01,google_ads,google,2,Condominio,conversions,Black Friday,cr_6593,mobile,RN,active,1186.24,BRL,1734,51,2,3387.99
+2025-01-02,google_ads,google,2,Condominio,conversions,Remarketing,cr_7936,desktop,SE,active,935.1,BRL,3153,97,6,7896.45
+2025-01-02,google_ads,google,4,Apartamento,conversions,Black Friday,cr_6526,desktop,SE,active,376.65,BRL,2354,79,4,6319.18
+2025-01-02,google_ads,google,2,Condominio,conversions,Remarketing,cr_4865,mobile,AL,active,463.46,BRL,1236,50,2,2627.1
+2025-01-02,google_ads,google,1,Empresarial,conversions,Lançamento,cr_4826,desktop,RN,active,545.68,BRL,3218,67,4,3347.79
+2025-01-02,google_ads,google,2,Condominio,conversions,Black Friday,cr_4410,mobile,CE,active,1107.96,BRL,3687,76,4,7717.0
+2025-01-02,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_8670,mobile,RN,active,796.27,BRL,1707,77,3,3687.08
+2025-01-02,google_ads,google,2,Condominio,conversions,Lançamento,cr_5905,mobile,BA,active,262.38,BRL,664,30,2,2602.2
+2025-01-02,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_6796,desktop,PE,active,1170.19,BRL,1569,33,1,1124.22
+2025-01-02,google_ads,google,5,Casa,awareness,IPTU 0,cr_5829,desktop,RN,active,1807.83,BRL,3313,164,7,10725.79
+2025-01-02,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_6565,mobile,SE,active,987.98,BRL,3882,115,7,10040.74
+2025-01-03,google_ads,google,5,Casa,awareness,IPTU 0,cr_9326,mobile,CE,active,455.54,BRL,3874,82,6,6356.71
+2025-01-03,google_ads,google,3,Office,traffic,Remarketing,cr_3989,desktop,PE,active,936.3,BRL,2398,78,5,8676.05
+2025-01-03,google_ads,google,3,Office,traffic,Black Friday,cr_3338,desktop,PE,active,1902.61,BRL,3680,121,6,5113.41
+2025-01-03,google_ads,google,5,Casa,awareness,IPTU 0,cr_8251,desktop,RN,active,1128.09,BRL,2896,140,10,15317.78
+2025-01-03,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_4147,mobile,AL,active,1261.98,BRL,1866,54,4,5326.4
+2025-01-03,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_5389,desktop,BA,active,1958.37,BRL,511,18,1,1910.42
+2025-01-03,google_ads,google,3,Office,traffic,Lançamento,cr_9606,desktop,RN,active,1433.26,BRL,1124,67,4,3400.77
+2025-01-03,google_ads,google,3,Office,traffic,Black Friday,cr_3685,desktop,AL,active,664.52,BRL,1857,94,7,6473.28
+2025-01-03,google_ads,google,3,Office,traffic,Promo Janeiro,cr_4098,mobile,PE,active,1078.75,BRL,756,15,0,0.0
+2025-01-03,google_ads,google,3,Office,traffic,Remarketing,cr_2258,desktop,RN,active,294.35,BRL,2585,74,3,4224.16
+2025-01-04,google_ads,google,2,Condominio,conversions,Lançamento,cr_3550,mobile,PE,active,373.91,BRL,3567,190,13,10902.06
+2025-01-04,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_8240,mobile,BA,active,1624.74,BRL,896,31,1,1591.81
+2025-01-04,google_ads,google,1,Empresarial,conversions,Black Friday,cr_8552,desktop,CE,active,360.53,BRL,3451,178,9,12435.41
+2025-01-04,google_ads,google,5,Casa,awareness,Remarketing,cr_3827,desktop,AL,active,174.31,BRL,2195,114,4,3749.88
+2025-01-04,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_6068,mobile,RN,active,871.72,BRL,1729,39,2,3564.02
+2025-01-04,google_ads,google,4,Apartamento,conversions,Black Friday,cr_1878,desktop,BA,active,734.33,BRL,796,28,2,2555.09
+2025-01-04,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_2992,mobile,SE,active,1869.83,BRL,1951,105,5,7941.81
+2025-01-04,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_4639,desktop,PE,active,195.45,BRL,2237,67,2,3073.48
+2025-01-04,google_ads,google,3,Office,traffic,IPTU 0,cr_1231,mobile,RN,active,1476.86,BRL,945,49,3,4384.29
+2025-01-04,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_4632,desktop,RN,active,1646.84,BRL,1149,27,1,1542.19
+2025-01-05,google_ads,google,3,Office,traffic,Promo Janeiro,cr_5207,mobile,RN,active,1562.71,BRL,593,30,1,1705.27
+2025-01-05,google_ads,google,5,Casa,awareness,Remarketing,cr_5509,mobile,SE,active,1531.96,BRL,1022,43,2,3350.31
+2025-01-05,google_ads,google,3,Office,traffic,Remarketing,cr_3412,desktop,RN,active,1125.64,BRL,2740,85,2,3633.88
+2025-01-05,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_8110,mobile,PE,active,799.46,BRL,855,44,3,4035.79
+2025-01-05,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_8543,mobile,CE,active,1221.05,BRL,2093,107,7,8141.13
+2025-01-05,google_ads,google,4,Apartamento,conversions,Black Friday,cr_4493,mobile,PE,active,1373.33,BRL,1032,22,1,1223.08
+2025-01-05,google_ads,google,5,Casa,awareness,Lançamento,cr_5603,desktop,RN,active,1349.78,BRL,1074,40,3,3422.05
+2025-01-05,google_ads,google,5,Casa,awareness,Black Friday,cr_3336,desktop,BA,active,1230.46,BRL,3864,186,12,16437.59
+2025-01-05,google_ads,google,1,Empresarial,conversions,Lançamento,cr_2641,mobile,PE,active,1447.2,BRL,2783,140,9,17130.5
+2025-01-05,google_ads,google,3,Office,traffic,Promo Janeiro,cr_8935,desktop,PE,active,248.03,BRL,2515,54,2,2706.35
+2025-01-06,google_ads,google,4,Apartamento,conversions,Remarketing,cr_2734,mobile,SE,active,643.26,BRL,2612,103,3,2945.59
+2025-01-06,google_ads,google,5,Casa,awareness,Lançamento,cr_9174,mobile,BA,active,281.81,BRL,1981,117,6,11665.33
+2025-01-06,google_ads,google,2,Condominio,conversions,Black Friday,cr_6460,mobile,BA,active,618.4,BRL,2152,45,1,1328.65
+2025-01-06,google_ads,google,3,Office,traffic,Lançamento,cr_8193,desktop,RN,active,604.03,BRL,2827,93,3,4186.15
+2025-01-06,google_ads,google,2,Condominio,conversions,Lançamento,cr_8416,desktop,RN,active,450.51,BRL,601,28,0,0.0
+2025-01-06,google_ads,google,3,Office,traffic,IPTU 0,cr_4636,mobile,SE,active,347.3,BRL,2851,57,4,4803.44
+2025-01-06,google_ads,google,1,Empresarial,conversions,Black Friday,cr_7392,mobile,PE,active,1079.03,BRL,1260,38,2,2200.01
+2025-01-06,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_4852,mobile,SE,active,366.85,BRL,2650,71,4,4393.24
+2025-01-06,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_3286,desktop,SE,active,1171.49,BRL,1253,40,2,1940.24
+2025-01-06,google_ads,google,4,Apartamento,conversions,Black Friday,cr_7615,mobile,PE,active,1074.47,BRL,3103,164,11,15726.71
+2025-01-07,google_ads,google,3,Office,traffic,IPTU 0,cr_2273,desktop,AL,active,1220.21,BRL,1187,47,2,2912.5
+2025-01-07,google_ads,google,4,Apartamento,conversions,Black Friday,cr_2997,desktop,CE,active,656.17,BRL,893,21,1,1168.44
+2025-01-07,google_ads,google,5,Casa,awareness,Lançamento,cr_6234,desktop,SE,active,990.26,BRL,2127,71,2,3322.19
+2025-01-07,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_2768,desktop,RN,active,341.35,BRL,3585,186,10,9286.07
+2025-01-07,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_2841,desktop,AL,active,161.18,BRL,885,34,2,3653.34
+2025-01-07,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_5751,desktop,RN,active,597.77,BRL,2427,107,5,7329.41
+2025-01-07,google_ads,google,4,Apartamento,conversions,Remarketing,cr_7682,desktop,CE,active,1523.51,BRL,3791,227,11,17199.11
+2025-01-07,google_ads,google,3,Office,traffic,Lançamento,cr_4207,desktop,RN,active,1904.0,BRL,2823,63,3,5739.5
+2025-01-07,google_ads,google,4,Apartamento,conversions,Black Friday,cr_6695,desktop,CE,active,628.77,BRL,3368,181,12,17858.1
+2025-01-07,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_3991,mobile,AL,active,1947.05,BRL,1099,33,1,947.21
+2025-01-08,google_ads,google,3,Office,traffic,Lançamento,cr_6959,desktop,SE,active,1878.3,BRL,3978,85,2,2756.67
+2025-01-08,google_ads,google,4,Apartamento,conversions,Lançamento,cr_6601,mobile,RN,active,546.36,BRL,2866,124,6,7377.96
+2025-01-08,google_ads,google,5,Casa,awareness,Remarketing,cr_8981,mobile,BA,active,670.47,BRL,663,29,0,0.0
+2025-01-08,google_ads,google,1,Empresarial,conversions,Remarketing,cr_5425,mobile,BA,active,589.13,BRL,1778,55,1,1186.54
+2025-01-08,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_8363,desktop,BA,active,364.61,BRL,1813,54,3,2558.25
+2025-01-08,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_2844,mobile,BA,active,524.69,BRL,2038,85,4,4646.09
+2025-01-08,google_ads,google,4,Apartamento,conversions,Lançamento,cr_4936,desktop,RN,active,1386.28,BRL,1729,86,2,3389.38
+2025-01-08,google_ads,google,3,Office,traffic,Black Friday,cr_2149,desktop,SE,active,797.45,BRL,3757,122,7,13648.31
+2025-01-08,google_ads,google,3,Office,traffic,Black Friday,cr_5295,desktop,CE,active,284.01,BRL,2089,112,7,13759.45
+2025-01-08,google_ads,google,1,Empresarial,conversions,Remarketing,cr_1652,desktop,AL,active,1304.77,BRL,3417,156,5,6737.78
+2025-01-09,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_9050,mobile,AL,active,1677.99,BRL,3630,102,3,3605.13
+2025-01-09,google_ads,google,2,Condominio,conversions,Black Friday,cr_7314,mobile,PE,active,1501.24,BRL,958,41,3,5714.83
+2025-01-09,google_ads,google,3,Office,traffic,Black Friday,cr_4418,desktop,BA,active,1785.92,BRL,1152,46,1,1768.71
+2025-01-09,google_ads,google,2,Condominio,conversions,Black Friday,cr_1822,desktop,PE,active,1856.06,BRL,3895,153,7,6993.92
+2025-01-09,google_ads,google,3,Office,traffic,Promo Janeiro,cr_4449,mobile,PE,active,1117.15,BRL,1822,84,6,5710.11
+2025-01-09,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_9352,mobile,CE,active,766.87,BRL,2586,61,2,3369.65
+2025-01-09,google_ads,google,3,Office,traffic,Promo Janeiro,cr_1633,mobile,AL,active,782.86,BRL,3190,158,12,21690.64
+2025-01-09,google_ads,google,4,Apartamento,conversions,Lançamento,cr_2562,mobile,SE,active,740.63,BRL,1944,86,5,4912.37
+2025-01-09,google_ads,google,3,Office,traffic,Promo Janeiro,cr_5023,desktop,RN,active,1741.49,BRL,771,29,1,1268.48
+2025-01-09,google_ads,google,3,Office,traffic,IPTU 0,cr_1834,desktop,PE,active,1029.17,BRL,1464,30,2,2187.16
+2025-01-10,google_ads,google,3,Office,traffic,Black Friday,cr_1276,desktop,CE,active,1990.66,BRL,3652,76,3,2881.47
+2025-01-10,google_ads,google,2,Condominio,conversions,IPTU 0,cr_9576,desktop,BA,active,206.61,BRL,2444,51,1,1869.88
+2025-01-10,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_8748,mobile,AL,active,1441.68,BRL,1716,47,3,2430.09
+2025-01-10,google_ads,google,2,Condominio,conversions,Remarketing,cr_4269,mobile,RN,active,469.58,BRL,2659,53,4,5317.15
+2025-01-10,google_ads,google,4,Apartamento,conversions,Lançamento,cr_3552,mobile,RN,active,1133.16,BRL,2028,88,4,3912.03
+2025-01-10,google_ads,google,3,Office,traffic,Black Friday,cr_2998,desktop,SE,active,1736.05,BRL,896,22,1,1979.49
+2025-01-10,google_ads,google,3,Office,traffic,Lançamento,cr_1152,desktop,CE,active,1057.43,BRL,2914,62,2,1979.36
+2025-01-10,google_ads,google,2,Condominio,conversions,IPTU 0,cr_7230,desktop,SE,active,1191.51,BRL,1071,52,4,5746.15
+2025-01-10,google_ads,google,3,Office,traffic,Promo Janeiro,cr_8072,mobile,SE,active,1624.17,BRL,1671,99,4,5025.05
+2025-01-10,google_ads,google,2,Condominio,conversions,Black Friday,cr_8644,mobile,BA,active,723.32,BRL,1180,65,3,4629.2
+2025-01-11,google_ads,google,1,Empresarial,conversions,Black Friday,cr_5578,desktop,PE,active,946.44,BRL,2713,79,2,3362.43
+2025-01-11,google_ads,google,5,Casa,awareness,Lançamento,cr_6975,desktop,AL,active,1318.77,BRL,1059,45,1,819.32
+2025-01-11,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_2878,desktop,CE,active,760.44,BRL,2041,116,4,6877.84
+2025-01-11,google_ads,google,4,Apartamento,conversions,Remarketing,cr_6384,desktop,RN,active,1262.79,BRL,3486,124,7,7060.05
+2025-01-11,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_9040,mobile,AL,active,167.8,BRL,3634,89,6,6809.99
+2025-01-11,google_ads,google,2,Condominio,conversions,IPTU 0,cr_6699,desktop,RN,active,1393.37,BRL,936,45,3,2708.41
+2025-01-11,google_ads,google,1,Empresarial,conversions,Remarketing,cr_4177,desktop,AL,active,494.56,BRL,1181,31,1,903.23
+2025-01-11,google_ads,google,3,Office,traffic,Remarketing,cr_1290,desktop,SE,active,1459.05,BRL,1797,85,5,9546.95
+2025-01-11,google_ads,google,2,Condominio,conversions,Remarketing,cr_9998,desktop,SE,active,1601.79,BRL,2704,144,7,9826.25
+2025-01-11,google_ads,google,5,Casa,awareness,Lançamento,cr_9035,desktop,SE,active,698.61,BRL,628,24,0,0.0
+2025-01-12,google_ads,google,2,Condominio,conversions,Lançamento,cr_6126,desktop,RN,active,637.82,BRL,1580,48,1,1953.1
+2025-01-12,google_ads,google,4,Apartamento,conversions,Remarketing,cr_2162,mobile,RN,active,1552.17,BRL,1874,68,2,3584.7
+2025-01-12,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_7779,mobile,AL,active,1752.01,BRL,928,27,1,1931.33
+2025-01-12,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_7401,mobile,PE,active,736.49,BRL,1201,52,1,1084.51
+2025-01-12,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_2804,mobile,SE,active,1923.85,BRL,1261,53,3,3797.4
+2025-01-12,google_ads,google,2,Condominio,conversions,IPTU 0,cr_1353,mobile,BA,active,618.46,BRL,3964,205,10,13872.1
+2025-01-12,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_1698,desktop,BA,active,1834.25,BRL,3634,172,13,24110.18
+2025-01-12,google_ads,google,5,Casa,awareness,IPTU 0,cr_4345,mobile,BA,active,1864.76,BRL,3673,93,3,4297.16
+2025-01-12,google_ads,google,2,Condominio,conversions,Black Friday,cr_1760,desktop,RN,active,1508.61,BRL,1876,92,5,9348.61
+2025-01-12,google_ads,google,4,Apartamento,conversions,Black Friday,cr_5515,desktop,PE,active,1226.27,BRL,2449,55,2,2376.79
+2025-01-13,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_2686,desktop,RN,active,903.19,BRL,2718,128,5,6631.47
+2025-01-13,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_8725,desktop,RN,active,273.39,BRL,644,18,0,0.0
+2025-01-13,google_ads,google,1,Empresarial,conversions,Remarketing,cr_3804,desktop,AL,active,1884.58,BRL,3684,147,8,11004.04
+2025-01-13,google_ads,google,3,Office,traffic,IPTU 0,cr_9055,desktop,BA,active,1169.78,BRL,892,46,3,3082.68
+2025-01-13,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_7220,desktop,CE,active,1919.71,BRL,3442,130,9,8272.02
+2025-01-13,google_ads,google,3,Office,traffic,IPTU 0,cr_6436,desktop,PE,active,1110.59,BRL,3021,121,7,9403.92
+2025-01-13,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_8557,desktop,BA,active,1494.78,BRL,2481,109,5,4762.76
+2025-01-13,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_6585,mobile,PE,active,1082.17,BRL,1891,103,4,5265.27
+2025-01-13,google_ads,google,3,Office,traffic,IPTU 0,cr_4939,mobile,BA,active,1801.22,BRL,3691,86,5,9309.52
+2025-01-13,google_ads,google,5,Casa,awareness,Black Friday,cr_4507,desktop,CE,active,1815.32,BRL,2012,94,6,11933.67
+2025-01-14,google_ads,google,1,Empresarial,conversions,Remarketing,cr_4822,desktop,SE,active,673.64,BRL,3855,178,12,12080.31
+2025-01-14,google_ads,google,3,Office,traffic,Remarketing,cr_9799,mobile,PE,active,507.66,BRL,2339,68,4,4350.21
+2025-01-14,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_4111,desktop,PE,active,1082.2,BRL,3615,204,6,6200.74
+2025-01-14,google_ads,google,3,Office,traffic,Black Friday,cr_9236,mobile,BA,active,1486.06,BRL,3942,236,9,17735.58
+2025-01-14,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_2293,mobile,RN,active,1624.22,BRL,1636,66,2,2567.74
+2025-01-14,google_ads,google,1,Empresarial,conversions,Lançamento,cr_3878,desktop,AL,active,1910.46,BRL,3989,157,8,15957.96
+2025-01-14,google_ads,google,5,Casa,awareness,Lançamento,cr_2441,desktop,RN,active,1311.68,BRL,778,39,2,3305.86
+2025-01-14,google_ads,google,5,Casa,awareness,IPTU 0,cr_5427,desktop,AL,active,1015.96,BRL,2363,78,4,4714.46
+2025-01-14,google_ads,google,3,Office,traffic,IPTU 0,cr_4392,desktop,SE,active,779.5,BRL,2923,167,10,18404.49
+2025-01-14,google_ads,google,4,Apartamento,conversions,Black Friday,cr_3470,desktop,CE,active,650.13,BRL,2842,117,6,6021.48
+2025-01-15,google_ads,google,3,Office,traffic,Promo Janeiro,cr_8787,mobile,SE,active,1934.02,BRL,3747,106,3,5751.35
+2025-01-15,google_ads,google,4,Apartamento,conversions,Black Friday,cr_1332,mobile,BA,active,835.03,BRL,1049,55,3,4740.3
+2025-01-15,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_5794,mobile,RN,active,516.89,BRL,3829,143,6,9290.46
+2025-01-15,google_ads,google,3,Office,traffic,Promo Janeiro,cr_9550,mobile,CE,active,966.22,BRL,1190,62,4,7424.67
+2025-01-15,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_5561,desktop,SE,active,467.44,BRL,2329,105,6,9623.5
+2025-01-15,google_ads,google,3,Office,traffic,IPTU 0,cr_5617,desktop,BA,active,466.12,BRL,3581,93,3,3619.56
+2025-01-15,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_8596,mobile,SE,active,292.99,BRL,854,36,2,2447.75
+2025-01-15,google_ads,google,5,Casa,awareness,IPTU 0,cr_6789,desktop,AL,active,1032.82,BRL,3400,165,5,8953.64
+2025-01-15,google_ads,google,3,Office,traffic,IPTU 0,cr_7609,mobile,BA,active,328.41,BRL,3744,126,4,4840.19
+2025-01-15,google_ads,google,1,Empresarial,conversions,Lançamento,cr_4897,mobile,SE,active,1219.39,BRL,3210,105,3,2526.96
+2025-01-16,google_ads,google,5,Casa,awareness,Lançamento,cr_5830,mobile,RN,active,176.09,BRL,1342,41,2,2294.5
+2025-01-16,google_ads,google,5,Casa,awareness,Remarketing,cr_6765,mobile,CE,active,247.44,BRL,1326,65,3,4350.74
+2025-01-16,google_ads,google,4,Apartamento,conversions,Black Friday,cr_3714,desktop,PE,active,1679.4,BRL,3124,179,8,12364.15
+2025-01-16,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_1014,mobile,AL,active,1002.29,BRL,2053,50,3,3397.13
+2025-01-16,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_9967,mobile,AL,active,1028.16,BRL,1177,24,1,1622.16
+2025-01-16,google_ads,google,3,Office,traffic,Remarketing,cr_1357,desktop,PE,active,1867.66,BRL,1483,39,2,2256.53
+2025-01-16,google_ads,google,3,Office,traffic,Remarketing,cr_1056,desktop,BA,active,941.79,BRL,3817,93,7,6696.27
+2025-01-16,google_ads,google,4,Apartamento,conversions,Lançamento,cr_5304,mobile,RN,active,1797.02,BRL,2088,65,3,3429.33
+2025-01-16,google_ads,google,3,Office,traffic,Promo Janeiro,cr_7243,mobile,PE,active,332.23,BRL,1672,37,1,1544.22
+2025-01-16,google_ads,google,2,Condominio,conversions,IPTU 0,cr_2794,mobile,SE,active,1067.25,BRL,2967,136,10,17823.47
+2025-01-17,google_ads,google,3,Office,traffic,IPTU 0,cr_9845,desktop,AL,active,958.24,BRL,1189,35,1,864.23
+2025-01-17,google_ads,google,3,Office,traffic,Lançamento,cr_3966,desktop,CE,active,1416.69,BRL,2498,84,6,8296.04
+2025-01-17,google_ads,google,2,Condominio,conversions,Lançamento,cr_4521,desktop,AL,active,1795.53,BRL,3996,211,6,5620.35
+2025-01-17,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_6131,mobile,RN,active,1872.14,BRL,1204,57,3,2716.24
+2025-01-17,google_ads,google,1,Empresarial,conversions,Black Friday,cr_1494,desktop,SE,active,1280.4,BRL,1674,92,3,5228.13
+2025-01-17,google_ads,google,1,Empresarial,conversions,Lançamento,cr_7822,desktop,SE,active,1354.31,BRL,708,15,0,0.0
+2025-01-17,google_ads,google,2,Condominio,conversions,Lançamento,cr_1347,mobile,AL,active,1063.09,BRL,2249,64,3,4983.19
+2025-01-17,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_3674,mobile,CE,active,1906.18,BRL,2323,124,6,10356.63
+2025-01-17,google_ads,google,2,Condominio,conversions,IPTU 0,cr_2753,desktop,CE,active,1411.64,BRL,2892,117,6,7062.2
+2025-01-17,google_ads,google,1,Empresarial,conversions,Remarketing,cr_5195,desktop,RN,active,1295.87,BRL,1469,30,1,1484.87
+2025-01-18,google_ads,google,4,Apartamento,conversions,Lançamento,cr_8847,mobile,SE,active,562.94,BRL,1055,49,2,3937.15
+2025-01-18,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_5007,mobile,AL,active,1360.43,BRL,593,22,0,0.0
+2025-01-18,google_ads,google,3,Office,traffic,Black Friday,cr_8817,desktop,RN,active,1466.82,BRL,1545,74,2,3305.21
+2025-01-18,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_7763,mobile,BA,active,652.65,BRL,1160,56,3,3927.62
+2025-01-18,google_ads,google,1,Empresarial,conversions,Black Friday,cr_2851,mobile,RN,active,554.21,BRL,1102,37,2,1774.54
+2025-01-18,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_2209,mobile,SE,active,1072.68,BRL,3910,227,13,12307.74
+2025-01-18,google_ads,google,4,Apartamento,conversions,Black Friday,cr_2375,desktop,RN,active,574.34,BRL,1452,46,2,3883.07
+2025-01-18,google_ads,google,1,Empresarial,conversions,Black Friday,cr_9251,mobile,CE,active,1930.73,BRL,1320,78,4,6467.34
+2025-01-18,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_6772,mobile,RN,active,1326.32,BRL,699,30,2,2807.32
+2025-01-18,google_ads,google,1,Empresarial,conversions,Lançamento,cr_5255,desktop,PE,active,1378.66,BRL,1611,35,2,1741.32
+2025-01-19,google_ads,google,4,Apartamento,conversions,Lançamento,cr_4866,desktop,RN,active,873.29,BRL,3985,212,13,21960.26
+2025-01-19,google_ads,google,5,Casa,awareness,Black Friday,cr_5818,mobile,CE,active,941.2,BRL,2056,109,3,5850.14
+2025-01-19,google_ads,google,3,Office,traffic,IPTU 0,cr_7238,desktop,SE,active,243.1,BRL,556,16,1,806.69
+2025-01-19,google_ads,google,5,Casa,awareness,Remarketing,cr_8457,desktop,AL,active,171.16,BRL,2896,166,12,14188.88
+2025-01-19,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_2267,mobile,RN,active,1887.49,BRL,2178,119,5,4707.59
+2025-01-19,google_ads,google,2,Condominio,conversions,Lançamento,cr_8661,desktop,BA,active,1210.72,BRL,611,13,0,0.0
+2025-01-19,google_ads,google,1,Empresarial,conversions,Remarketing,cr_6281,desktop,BA,active,1333.52,BRL,3752,164,12,18066.73
+2025-01-19,google_ads,google,1,Empresarial,conversions,Black Friday,cr_1767,desktop,SE,active,965.25,BRL,1745,84,5,9840.22
+2025-01-19,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_3539,mobile,RN,active,1625.88,BRL,2786,78,2,3473.23
+2025-01-19,google_ads,google,2,Condominio,conversions,Black Friday,cr_2085,mobile,AL,active,674.96,BRL,3343,127,7,12617.08
+2025-01-20,google_ads,google,2,Condominio,conversions,Lançamento,cr_6016,desktop,BA,active,1268.12,BRL,2914,137,7,10579.56
+2025-01-20,google_ads,google,1,Empresarial,conversions,Black Friday,cr_5316,mobile,RN,active,401.38,BRL,2038,78,6,11790.26
+2025-01-20,google_ads,google,5,Casa,awareness,IPTU 0,cr_1862,desktop,BA,active,1649.4,BRL,1182,66,3,5032.3
+2025-01-20,google_ads,google,4,Apartamento,conversions,Lançamento,cr_3005,desktop,RN,active,1548.92,BRL,1238,30,1,1949.32
+2025-01-20,google_ads,google,1,Empresarial,conversions,Black Friday,cr_3700,mobile,CE,active,1116.99,BRL,974,46,3,4786.08
+2025-01-20,google_ads,google,5,Casa,awareness,IPTU 0,cr_9034,desktop,SE,active,1938.26,BRL,3099,65,4,7285.1
+2025-01-20,google_ads,google,2,Condominio,conversions,Lançamento,cr_4337,desktop,SE,active,893.17,BRL,3845,226,9,10717.8
+2025-01-20,google_ads,google,5,Casa,awareness,Black Friday,cr_1006,desktop,PE,active,749.31,BRL,513,25,1,1913.09
+2025-01-20,google_ads,google,5,Casa,awareness,Black Friday,cr_4474,mobile,BA,active,572.29,BRL,2785,102,4,4663.28
+2025-01-20,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_9017,mobile,SE,active,199.32,BRL,1681,40,2,3626.43
+2025-01-21,google_ads,google,3,Office,traffic,Lançamento,cr_6395,mobile,AL,active,1838.02,BRL,2530,125,4,5542.41
+2025-01-21,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_6039,desktop,AL,active,1468.06,BRL,3893,124,4,4902.78
+2025-01-21,google_ads,google,2,Condominio,conversions,Lançamento,cr_4659,desktop,RN,active,1022.03,BRL,810,35,2,3245.63
+2025-01-21,google_ads,google,1,Empresarial,conversions,Lançamento,cr_1375,desktop,AL,active,118.41,BRL,3974,80,5,9970.05
+2025-01-21,google_ads,google,2,Condominio,conversions,Black Friday,cr_3680,mobile,AL,active,943.64,BRL,1961,51,2,3220.74
+2025-01-21,google_ads,google,3,Office,traffic,Black Friday,cr_8670,mobile,CE,active,512.84,BRL,2084,87,5,6308.79
+2025-01-21,google_ads,google,2,Condominio,conversions,IPTU 0,cr_5362,mobile,SE,active,126.24,BRL,2118,101,5,7583.07
+2025-01-21,google_ads,google,3,Office,traffic,Black Friday,cr_8788,mobile,BA,active,795.06,BRL,956,28,2,1789.18
+2025-01-21,google_ads,google,1,Empresarial,conversions,Lançamento,cr_2456,desktop,RN,active,1039.43,BRL,1463,68,5,9011.55
+2025-01-21,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_5034,mobile,RN,active,174.01,BRL,2409,94,5,6267.57
+2025-01-22,google_ads,google,4,Apartamento,conversions,Remarketing,cr_1519,desktop,RN,active,1086.72,BRL,2010,53,3,5382.33
+2025-01-22,google_ads,google,3,Office,traffic,Promo Janeiro,cr_6147,mobile,PE,active,1666.79,BRL,3043,124,3,3072.87
+2025-01-22,google_ads,google,5,Casa,awareness,IPTU 0,cr_3853,desktop,CE,active,1206.82,BRL,2804,141,8,12133.6
+2025-01-22,google_ads,google,4,Apartamento,conversions,Lançamento,cr_3361,mobile,BA,active,1102.72,BRL,1413,83,4,4575.44
+2025-01-22,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_1476,mobile,SE,active,1397.38,BRL,2820,159,7,5842.11
+2025-01-22,google_ads,google,5,Casa,awareness,Lançamento,cr_1178,desktop,RN,active,1333.85,BRL,864,48,2,2732.92
+2025-01-22,google_ads,google,2,Condominio,conversions,Lançamento,cr_5258,mobile,SE,active,997.03,BRL,975,29,1,1164.3
+2025-01-22,google_ads,google,2,Condominio,conversions,IPTU 0,cr_4813,desktop,PE,active,1910.99,BRL,3457,167,13,23697.28
+2025-01-22,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_8792,mobile,BA,active,1402.76,BRL,3723,217,14,14327.14
+2025-01-22,google_ads,google,1,Empresarial,conversions,Black Friday,cr_3592,mobile,PE,active,1003.18,BRL,3252,188,12,21629.78
+2025-01-23,google_ads,google,4,Apartamento,conversions,Lançamento,cr_6238,desktop,CE,active,1757.96,BRL,1715,73,3,4022.41
+2025-01-23,google_ads,google,1,Empresarial,conversions,Black Friday,cr_1087,mobile,PE,active,826.47,BRL,1147,45,2,3624.64
+2025-01-23,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_5405,mobile,SE,active,1044.89,BRL,1568,85,5,6552.88
+2025-01-23,google_ads,google,5,Casa,awareness,IPTU 0,cr_8460,mobile,CE,active,479.92,BRL,3631,172,7,6665.93
+2025-01-23,google_ads,google,2,Condominio,conversions,IPTU 0,cr_2332,mobile,BA,active,1221.58,BRL,3852,211,10,14711.59
+2025-01-23,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_4555,mobile,BA,active,187.78,BRL,634,14,0,0.0
+2025-01-23,google_ads,google,2,Condominio,conversions,Lançamento,cr_2116,mobile,PE,active,1463.92,BRL,1000,52,3,4222.55
+2025-01-23,google_ads,google,4,Apartamento,conversions,Lançamento,cr_2482,desktop,AL,active,1849.04,BRL,3474,199,13,24540.97
+2025-01-23,google_ads,google,5,Casa,awareness,Black Friday,cr_5488,mobile,RN,active,1181.62,BRL,3117,109,3,5971.4
+2025-01-23,google_ads,google,2,Condominio,conversions,IPTU 0,cr_6774,mobile,AL,active,682.74,BRL,1804,103,7,9713.14
+2025-01-24,google_ads,google,2,Condominio,conversions,Black Friday,cr_1581,mobile,CE,active,1004.95,BRL,1483,31,1,973.44
+2025-01-24,google_ads,google,1,Empresarial,conversions,Remarketing,cr_1811,mobile,AL,active,779.4,BRL,1561,87,3,5728.8
+2025-01-24,google_ads,google,4,Apartamento,conversions,Black Friday,cr_2152,desktop,AL,active,1484.42,BRL,3783,134,10,11235.99
+2025-01-24,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_3387,desktop,AL,active,728.68,BRL,624,25,1,865.88
+2025-01-24,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_6558,desktop,CE,active,1516.49,BRL,2873,119,5,9213.43
+2025-01-24,google_ads,google,5,Casa,awareness,Remarketing,cr_3950,desktop,PE,active,731.97,BRL,3022,65,2,2802.73
+2025-01-24,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_9345,desktop,CE,active,1749.37,BRL,3776,174,10,19068.29
+2025-01-24,google_ads,google,2,Condominio,conversions,Remarketing,cr_3127,mobile,AL,active,1195.95,BRL,1722,79,5,5899.15
+2025-01-24,google_ads,google,1,Empresarial,conversions,Black Friday,cr_9607,mobile,PE,active,1111.43,BRL,3579,104,3,5629.54
+2025-01-24,google_ads,google,3,Office,traffic,Promo Janeiro,cr_6291,desktop,PE,active,1106.61,BRL,3875,157,6,6941.91
+2025-01-25,google_ads,google,5,Casa,awareness,IPTU 0,cr_3838,desktop,PE,active,247.77,BRL,3031,170,12,11948.98
+2025-01-25,google_ads,google,3,Office,traffic,Black Friday,cr_9493,desktop,SE,active,265.96,BRL,3872,228,10,19503.66
+2025-01-25,google_ads,google,5,Casa,awareness,Lançamento,cr_9031,mobile,AL,active,109.98,BRL,2559,130,6,8317.76
+2025-01-25,google_ads,google,1,Empresarial,conversions,Remarketing,cr_8836,mobile,PE,active,321.26,BRL,1676,66,4,5577.76
+2025-01-25,google_ads,google,4,Apartamento,conversions,Black Friday,cr_9242,mobile,PE,active,354.44,BRL,2636,151,6,9216.81
+2025-01-25,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_1508,mobile,BA,active,1656.28,BRL,2826,120,6,8644.2
+2025-01-25,google_ads,google,3,Office,traffic,Black Friday,cr_2616,mobile,AL,active,707.49,BRL,1646,98,3,2957.82
+2025-01-25,google_ads,google,2,Condominio,conversions,Remarketing,cr_4655,desktop,BA,active,1133.56,BRL,1305,30,1,1614.76
+2025-01-25,google_ads,google,3,Office,traffic,Black Friday,cr_4299,desktop,RN,active,939.23,BRL,3562,164,10,10359.17
+2025-01-25,google_ads,google,3,Office,traffic,Remarketing,cr_2917,mobile,SE,active,1293.75,BRL,2555,112,4,5013.46
+2025-01-26,google_ads,google,2,Condominio,conversions,IPTU 0,cr_9714,mobile,BA,active,200.82,BRL,557,18,1,850.89
+2025-01-26,google_ads,google,3,Office,traffic,Lançamento,cr_4026,desktop,PE,active,283.13,BRL,694,40,3,3898.72
+2025-01-26,google_ads,google,3,Office,traffic,Remarketing,cr_2713,desktop,BA,active,572.27,BRL,3996,130,8,6877.9
+2025-01-26,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_5541,desktop,RN,active,557.86,BRL,2524,94,5,4325.05
+2025-01-26,google_ads,google,5,Casa,awareness,Black Friday,cr_4907,desktop,CE,active,1402.03,BRL,3264,193,6,10118.47
+2025-01-26,google_ads,google,3,Office,traffic,Black Friday,cr_6097,desktop,CE,active,441.29,BRL,1433,77,4,5463.09
+2025-01-26,google_ads,google,3,Office,traffic,Lançamento,cr_8552,desktop,RN,active,625.19,BRL,2929,71,5,9974.3
+2025-01-26,google_ads,google,5,Casa,awareness,Black Friday,cr_9221,mobile,RN,active,1833.86,BRL,3684,186,10,19286.67
+2025-01-26,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_4424,mobile,RN,active,1845.81,BRL,669,20,0,0.0
+2025-01-26,google_ads,google,3,Office,traffic,IPTU 0,cr_8242,mobile,RN,active,590.29,BRL,3773,188,14,27132.24
+2025-01-27,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_2071,desktop,BA,active,1110.21,BRL,600,35,1,1431.9
+2025-01-27,google_ads,google,1,Empresarial,conversions,Black Friday,cr_9921,mobile,BA,active,413.2,BRL,2900,137,6,5406.17
+2025-01-27,google_ads,google,3,Office,traffic,Lançamento,cr_4745,desktop,CE,active,287.62,BRL,3726,175,7,9029.84
+2025-01-27,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_7488,mobile,CE,active,788.61,BRL,2644,119,3,4125.52
+2025-01-27,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_3185,desktop,SE,active,1556.63,BRL,502,20,1,1875.5
+2025-01-27,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_8831,mobile,BA,active,408.65,BRL,2588,142,8,9747.76
+2025-01-27,google_ads,google,2,Condominio,conversions,IPTU 0,cr_4650,mobile,CE,active,533.83,BRL,583,25,1,1783.62
+2025-01-27,google_ads,google,1,Empresarial,conversions,Black Friday,cr_5119,mobile,BA,active,1538.98,BRL,539,18,0,0.0
+2025-01-27,google_ads,google,3,Office,traffic,Black Friday,cr_6582,desktop,AL,active,1810.7,BRL,3473,169,9,9104.92
+2025-01-27,google_ads,google,1,Empresarial,conversions,Lançamento,cr_8169,desktop,BA,active,1209.36,BRL,3598,103,7,8603.66
+2025-01-28,google_ads,google,2,Condominio,conversions,Black Friday,cr_7703,mobile,PE,active,481.52,BRL,3917,208,7,5811.26
+2025-01-28,google_ads,google,3,Office,traffic,Black Friday,cr_2491,mobile,BA,active,981.1,BRL,3378,75,3,4454.09
+2025-01-28,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_5207,desktop,RN,active,266.89,BRL,1215,30,2,3309.46
+2025-01-28,google_ads,google,4,Apartamento,conversions,IPTU 0,cr_7726,desktop,PE,active,1772.42,BRL,3797,172,5,5162.07
+2025-01-28,google_ads,google,5,Casa,awareness,Black Friday,cr_7259,desktop,PE,active,1135.35,BRL,3155,184,12,23988.58
+2025-01-28,google_ads,google,2,Condominio,conversions,Remarketing,cr_4151,desktop,SE,active,1022.72,BRL,3561,202,10,19173.41
+2025-01-28,google_ads,google,2,Condominio,conversions,Promo Janeiro,cr_8781,desktop,PE,active,1255.1,BRL,2474,51,2,3239.82
+2025-01-28,google_ads,google,1,Empresarial,conversions,Lançamento,cr_7648,mobile,CE,active,1502.19,BRL,1738,66,4,6259.34
+2025-01-28,google_ads,google,4,Apartamento,conversions,Lançamento,cr_9824,desktop,PE,active,1863.41,BRL,2374,95,3,5289.5
+2025-01-28,google_ads,google,2,Condominio,conversions,Lançamento,cr_6255,desktop,CE,active,806.58,BRL,2452,71,4,5815.69
+2025-01-29,google_ads,google,4,Apartamento,conversions,Remarketing,cr_2812,mobile,CE,active,952.15,BRL,2701,79,5,6136.74
+2025-01-29,google_ads,google,4,Apartamento,conversions,Promo Janeiro,cr_8797,desktop,AL,active,705.85,BRL,863,35,1,1250.24
+2025-01-29,google_ads,google,3,Office,traffic,IPTU 0,cr_5329,desktop,AL,active,1218.1,BRL,1027,42,2,2057.87
+2025-01-29,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_8649,mobile,CE,active,637.81,BRL,2795,105,8,9979.92
+2025-01-29,google_ads,google,1,Empresarial,conversions,Black Friday,cr_4451,mobile,AL,active,976.51,BRL,2701,138,5,9974.9
+2025-01-29,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_5908,mobile,SE,active,650.11,BRL,3766,182,5,5317.51
+2025-01-29,google_ads,google,1,Empresarial,conversions,Black Friday,cr_6227,desktop,BA,active,1770.02,BRL,705,36,1,1243.01
+2025-01-29,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_6886,desktop,SE,active,883.65,BRL,1706,84,4,5562.46
+2025-01-29,google_ads,google,4,Apartamento,conversions,Lançamento,cr_9404,desktop,BA,active,875.21,BRL,1248,34,1,1673.48
+2025-01-29,google_ads,google,3,Office,traffic,IPTU 0,cr_6909,mobile,RN,active,1946.56,BRL,605,14,0,0.0
+2025-01-30,google_ads,google,1,Empresarial,conversions,Remarketing,cr_4404,desktop,SE,active,1568.38,BRL,3240,125,9,12451.81
+2025-01-30,google_ads,google,1,Empresarial,conversions,Remarketing,cr_5494,desktop,RN,active,1694.41,BRL,847,26,0,0.0
+2025-01-30,google_ads,google,2,Condominio,conversions,Remarketing,cr_1714,mobile,AL,active,391.64,BRL,1238,41,2,1641.92
+2025-01-30,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_6479,desktop,AL,active,1594.91,BRL,3727,202,11,12216.12
+2025-01-30,google_ads,google,1,Empresarial,conversions,Remarketing,cr_6962,mobile,RN,active,1293.52,BRL,2601,119,8,7544.72
+2025-01-30,google_ads,google,1,Empresarial,conversions,Promo Janeiro,cr_9761,mobile,CE,active,882.48,BRL,1617,75,3,4107.99
+2025-01-30,google_ads,google,5,Casa,awareness,Promo Janeiro,cr_6672,desktop,BA,active,1266.82,BRL,1872,39,3,4856.08
+2025-01-30,google_ads,google,1,Empresarial,conversions,Black Friday,cr_8307,mobile,BA,active,1199.34,BRL,1165,68,5,9910.29
+2025-01-30,google_ads,google,5,Casa,awareness,Remarketing,cr_1385,mobile,BA,active,1116.15,BRL,1057,57,2,3852.83
+2025-01-30,google_ads,google,1,Empresarial,conversions,IPTU 0,cr_5483,mobile,RN,active,1886.74,BRL,3423,156,9,14428.84
