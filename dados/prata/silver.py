@@ -40,39 +40,10 @@ def silver():
         .withColumn("revenue", F.col("revenue").cast("double"))
     )
 
-    df_all = (
-        df_all
-        .withColumn("ctr",
-            F.when(F.col("impressions") > 0, F.col("clicks") / F.col("impressions"))
-        )
-        .withColumn("cpc",
-            F.when(F.col("clicks") > 0, F.col("cost") / F.col("clicks"))
-        )
-    )
-
-    (
-        df_all
-        .coalesce(1)
-        .write
-        .mode("overwrite")
-        .option("header", True)
-        .csv(OUTPUT_PATH)
-    )
-
     print("✅ Pipeline finalizado com sucesso")
-    spark.stop()
+    
+    return df_all
 
 
 # %%
-spark = (
-        SparkSession
-        .builder
-        .master("local[*]")
-        .appName("MarketingPipeline")
-        .getOrCreate()
-    )
-caminho = 'c:/Users/Pedro/Documents/vscode/pipeline_dados/dados/bronze/'
-meta_ads = (spark.read
-      .option("header", True)
-      .csv(f'{caminho}meta_ads_raw.csv'))
-email = spark.read.option('header',True).csv(f'{caminho}email_raw.csv')
+
