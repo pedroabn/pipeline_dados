@@ -1,0 +1,73 @@
+# .gitignore
+
+# ============================================
+# SECRETS - NUNCA COMITAR!
+# ============================================
+.env
+.env.dev
+.env.staging
+.env.prod
+.env.local
+
+# Credenciais GCP
+*service-account*.json
+*credentials*.json
+*.key
+*.pem
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# ============================================
+# Airflow
+# ============================================
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg.bak
+airflow/webserver_config.py
+
+# ============================================
+# DBT
+# ============================================
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# ============================================
+# Dados Locais
+# ============================================
+data/
+*.csv
+*.parquet
+*.json.gz
+
+# ============================================
+# IDEs
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ============================================
+# Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# Docker
+# ============================================
+.dockerignore
+docker-compose.override.yml
