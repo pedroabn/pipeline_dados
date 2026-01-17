@@ -1,0 +1,271 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marketing-data-pipeline"
+version = "1.0.0"
+description = "Pipeline end-to-end para análise de campanhas de marketing digital"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+    {name = "Seu Nome", email = "seu.email@exemplo.com"}
+]
+keywords = ["marketing", "data-pipeline", "analytics", "etl", "dbt"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+# ============================================
+# DEPENDÊNCIAS DE PRODUÇÃO
+# ============================================
+dependencies = [
+    # Core Python
+    "pandas>=2.1.0,<3.0.0",
+    "numpy>=1.24.0,<2.0.0",
+    "pyarrow>=14.0.0",  # Para Parquet
+    
+    # Configuração e Validação
+    "pydantic>=2.5.0,<3.0.0",
+    "pydantic-settings>=2.1.0",
+    "python-dotenv>=1.0.0",
+    
+    # Google Cloud Platform
+    "google-cloud-storage>=2.14.0,<3.0.0",
+    "google-cloud-bigquery>=3.15.0,<4.0.0",
+    "google-analytics-data>=0.18.0",  # GA4
+    
+    # APIs Externas
+    "requests>=2.31.0,<3.0.0",
+    "facebook-business>=19.0.0",  # Meta Ads SDK
+    
+    # Airflow
+    "apache-airflow>=2.8.0,<3.0.0",
+    "apache-airflow-providers-google>=10.12.0",
+    
+    # DBT
+    "dbt-core>=1.7.0,<2.0.0",
+    "dbt-bigquery>=1.7.0,<2.0.0",
+    
+    # Logging e Monitoramento
+    "structlog>=23.2.0",  # Logging estruturado
+    "python-json-logger>=2.0.7",
+]
+
+# ============================================
+# DEPENDÊNCIAS DE DESENVOLVIMENTO
+# ============================================
+[project.optional-dependencies]
+dev = [
+    # Testes
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "pytest-asyncio>=0.21.0",
+    
+    # Qualidade de Código
+    "ruff>=0.1.0",  # Linter moderno e rápido
+    "black>=23.0.0",  # Formatação
+    "isort>=5.12.0",  # Organização de imports
+    "mypy>=1.7.0",  # Type checking
+    
+    # Ferramentas
+    "ipython>=8.18.0",
+    "jupyter>=1.0.0",
+    "pre-commit>=3.5.0",
+]
+
+test = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "faker>=20.0.0",  # Dados fake para testes
+]
+
+docs = [
+    "mkdocs>=1.5.0",
+    "mkdocs-material>=9.4.0",
+]
+
+all = [
+    "marketing-data-pipeline[dev,test,docs]"
+]
+
+# ============================================
+# SCRIPTS CLI
+# ============================================
+[project.scripts]
+marketing-pipeline = "src.cli:main"
+validate-env = "scripts.setup.validate_env:main"
+setup-gcs = "scripts.setup.setup_gcs_lifecycle:main"
+
+# ============================================
+# URLs do Projeto
+# ============================================
+[project.urls]
+Homepage = "https://github.com/seu-usuario/marketing-data-pipeline"
+Documentation = "https://github.com/seu-usuario/marketing-data-pipeline/wiki"
+Repository = "https://github.com/seu-usuario/marketing-data-pipeline"
+Issues = "https://github.com/seu-usuario/marketing-data-pipeline/issues"
+
+# ============================================
+# CONFIGURAÇÃO SETUPTOOLS
+# ============================================
+[tool.setuptools]
+packages = ["src"]
+
+[tool.setuptools.package-data]
+src = ["py.typed"]
+
+# ============================================
+# PYTEST - Configuração de Testes
+# ============================================
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "-v",
+    "--strict-markers",
+    "--cov=src",
+    "--cov-report=html",
+    "--cov-report=term-missing",
+    "--cov-fail-under=70",  # Cobertura mínima 70%
+]
+markers = [
+    "unit: Testes unitários rápidos",
+    "integration: Testes de integração (requerem GCP)",
+    "slow: Testes lentos",
+]
+env = [
+    "ENVIRONMENT=test"
+]
+
+# ============================================
+# COVERAGE - Configuração de Cobertura
+# ============================================
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "*/tests/*",
+    "*/__pycache__/*",
+    "*/venv/*",
+    "*/migrations/*",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+    "@abstractmethod",
+]
+
+# ============================================
+# BLACK - Formatação de Código
+# ============================================
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+  | dbt
+)/
+'''
+
+# ============================================
+# ISORT - Organização de Imports
+# ============================================
+[tool.isort]
+profile = "black"
+line_length = 100
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
+skip_glob = ["*/migrations/*", "*/dbt/*"]
+
+# ============================================
+# RUFF - Linter Moderno
+# ============================================
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+# Diretórios a ignorar
+extend-exclude = [
+    "dbt",
+    "migrations",
+    ".venv",
+    "build",
+    "dist",
+]
+
+[tool.ruff.lint]
+# Regras habilitadas
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # isort
+    "B",    # flake8-bugbear
+    "C4",   # flake8-comprehensions
+    "UP",   # pyupgrade
+    "ARG",  # flake8-unused-arguments
+    "SIM",  # flake8-simplify
+]
+
+# Regras ignoradas
+ignore = [
+    "E501",  # line too long (black cuida disso)
+    "B008",  # do not perform function calls in argument defaults
+    "W191",  # indentation contains tabs
+]
+
+# ============================================
+# MYPY - Type Checking
+# ============================================
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false  # Relaxado para início
+ignore_missing_imports = true
+
+# Diretórios a ignorar
+exclude = [
+    "dbt",
+    "tests",
+    "venv",
+]
+
+[[tool.mypy.overrides]]
+module = "tests.*"
+ignore_errors = true
+
+# ============================================
+# BANDIT - Segurança
+# ============================================
+[tool.bandit]
+exclude_dirs = ["tests", "dbt", ".venv"]
+skips = ["B101"]  # Ignora assert_used (comum em testes)
