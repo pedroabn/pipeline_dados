@@ -1,0 +1,34 @@
+sources:
+  - name: gcs_bronze
+    database: fluid-unfolding-485118-a7
+    schema: analytics
+    loader: gcs
+
+    tables:
+      - name: email_raw
+        external:
+          location: 'gs://pipeline-mar/bronze/email_raw.csv' # Arquivo específico
+          format: csv
+          autodetect: true
+          options:
+            format: "CSV"
+            skip_leading_rows: 1
+
+
+      - name: clientes_raw
+        external:
+          location: 'gs://pipeline-mar/bronze/google_ads_raw.csv'
+          format: csv
+          autodetect: true
+          options:
+            format: "CSV"
+            skip_leading_rows: 1
+
+      - name: vendas_raw
+        external:
+          location: 'gs://pipeline-mar/bronze/meta_ads_raw.csv'
+          format: csv
+          autodetect: true
+          options:
+            format: "CSV"
+            skip_leading_rows: 1
