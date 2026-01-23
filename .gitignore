@@ -8,14 +8,10 @@
 .env.staging
 .env.prod
 .env.local
-.venv
-config/service_account.json
+venv
 
 # Credenciais GCP
-*service-account*.json
-*credentials*.json
-*.key
-*.pem
+config/service_account.json
 
 # ============================================
 # Python

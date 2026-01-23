@@ -7,7 +7,7 @@ name = "marketing-data-pipeline"
 version = "1.0.0"
 description = "Pipeline end-to-end para análise de campanhas de marketing digital"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
     {name = "Seu Nome", email = "seu.email@exemplo.com"}
@@ -107,10 +107,10 @@ setup-gcs = "scripts.setup.setup_gcs_lifecycle:main"
 # URLs do Projeto
 # ============================================
 [project.urls]
-Homepage = "https://github.com/seu-usuario/marketing-data-pipeline"
-Documentation = "https://github.com/seu-usuario/marketing-data-pipeline/wiki"
-Repository = "https://github.com/seu-usuario/marketing-data-pipeline"
-Issues = "https://github.com/seu-usuario/marketing-data-pipeline/issues"
+Homepage = "https://github.com/pedroabn/pipeline_dados/"
+Documentation = "https://github.com/pedroabn/pipeline_dados//wiki"
+Repository = "https://github.com/pedroabn/pipeline_dados/"
+Issues = "https://github.com/pedroabn/pipeline_dados/issues"
 
 # ============================================
 # CONFIGURAÇÃO SETUPTOOLS
