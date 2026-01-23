@@ -8,6 +8,8 @@
 .env.staging
 .env.prod
 .env.local
+.venv
+config/service_account.json
 
 # Credenciais GCP
 *service-account*.json
