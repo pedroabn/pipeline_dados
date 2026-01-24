@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+alert/backfill.py
+alert/manual_run.py
+config/__int__.py
+config/constants.py
+config/settings.py
+config/validators.py
+marketing_data_pipeline.egg-info/PKG-INFO
+marketing_data_pipeline.egg-info/SOURCES.txt
+marketing_data_pipeline.egg-info/dependency_links.txt
+marketing_data_pipeline.egg-info/entry_points.txt
+marketing_data_pipeline.egg-info/requires.txt
+marketing_data_pipeline.egg-info/top_level.txt
+tests/test_ingestion.py
+tests/test_processing.py

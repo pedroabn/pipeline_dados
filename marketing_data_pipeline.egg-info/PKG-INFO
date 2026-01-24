@@ -1,0 +1,274 @@
+Metadata-Version: 2.4
+Name: marketing-data-pipeline
+Version: 1.0.0
+Summary: Pipeline end-to-end para análise de campanhas de marketing digital
+Author-email: Pedro Neiva <seu.email@exemplo.com>
+License: MIT
+Project-URL: Homepage, https://github.com/pedroabn/pipeline_dados/
+Project-URL: Documentation, https://github.com/pedroabn/pipeline_dados/wiki
+Project-URL: Repository, https://github.com/pedroabn/pipeline_dados/
+Project-URL: Issues, https://github.com/pedroabn/pipeline_dados/issues
+Keywords: marketing,data-pipeline,analytics,etl,dbt
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Requires-Python: <3.14,>=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas<2.3.0,>=2.0.0
+Requires-Dist: numpy<2.0.0,>=1.24.0
+Requires-Dist: pyarrow<18.0.0,>=14.0.0
+Requires-Dist: pydantic<3.0.0,>=2.5.0
+Requires-Dist: pydantic-settings<3.0.0,>=2.1.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: google-cloud-storage<3.0.0,>=2.14.0
+Requires-Dist: google-cloud-bigquery<4.0.0,>=3.15.0
+Requires-Dist: google-analytics-data<1.0.0,>=0.18.0
+Requires-Dist: db-dtypes<2.0.0,>=1.1.0
+Requires-Dist: requests<3.0.0,>=2.31.0
+Requires-Dist: facebook-business<20.0.0,>=19.0.0
+Requires-Dist: structlog<25.0.0,>=23.2.0
+Requires-Dist: python-json-logger<3.0.0,>=2.0.7
+Provides-Extra: airflow
+Requires-Dist: apache-airflow<2.9.0,>=2.8.0; extra == "airflow"
+Requires-Dist: apache-airflow-providers-google<11.0.0,>=10.12.0; extra == "airflow"
+Provides-Extra: dbt
+Requires-Dist: dbt-core<1.9.0,>=1.7.0; extra == "dbt"
+Requires-Dist: dbt-bigquery<1.9.0,>=1.7.0; extra == "dbt"
+Provides-Extra: full
+Requires-Dist: apache-airflow<2.9.0,>=2.8.0; extra == "full"
+Requires-Dist: apache-airflow-providers-google<11.0.0,>=10.12.0; extra == "full"
+Requires-Dist: dbt-core<1.9.0,>=1.7.0; extra == "full"
+Requires-Dist: dbt-bigquery<1.9.0,>=1.7.0; extra == "full"
+Provides-Extra: ml
+Requires-Dist: scikit-learn<2.0.0,>=1.3.0; extra == "ml"
+Requires-Dist: joblib<2.0.0,>=1.3.0; extra == "ml"
+Requires-Dist: lightgbm<5.0.0,>=4.1.0; extra == "ml"
+Provides-Extra: dev
+Requires-Dist: pytest<9.0.0,>=7.4.0; extra == "dev"
+Requires-Dist: pytest-cov<6.0.0,>=4.1.0; extra == "dev"
+Requires-Dist: pytest-mock<4.0.0,>=3.12.0; extra == "dev"
+Requires-Dist: pytest-asyncio<1.0.0,>=0.21.0; extra == "dev"
+Requires-Dist: faker<27.0.0,>=20.0.0; extra == "dev"
+Requires-Dist: ruff<1.0.0,>=0.1.0; extra == "dev"
+Requires-Dist: black<25.0.0,>=23.0.0; extra == "dev"
+Requires-Dist: isort<6.0.0,>=5.12.0; extra == "dev"
+Requires-Dist: mypy<2.0.0,>=1.7.0; extra == "dev"
+Requires-Dist: ipython>=8.18.0; extra == "dev"
+Requires-Dist: jupyter>=1.0.0; extra == "dev"
+Requires-Dist: notebook>=7.0.0; extra == "dev"
+Requires-Dist: matplotlib<4.0.0,>=3.7.0; extra == "dev"
+Requires-Dist: seaborn<1.0.0,>=0.12.0; extra == "dev"
+Requires-Dist: pre-commit<4.0.0,>=3.5.0; extra == "dev"
+Provides-Extra: test
+Requires-Dist: pytest<9.0.0,>=7.4.0; extra == "test"
+Requires-Dist: pytest-cov<6.0.0,>=4.1.0; extra == "test"
+Requires-Dist: pytest-mock<4.0.0,>=3.12.0; extra == "test"
+Requires-Dist: faker<27.0.0,>=20.0.0; extra == "test"
+Provides-Extra: docs
+Requires-Dist: mkdocs<2.0.0,>=1.5.0; extra == "docs"
+Requires-Dist: mkdocs-material<10.0.0,>=9.4.0; extra == "docs"
+Dynamic: license-file
+
+# 📊 Marketing Data Pipeline – Campaign Intelligence Platform
+
+Este projeto documenta e implementa a construção de um **pipeline de dados para marketing digital**, com foco em **análise de campanhas ativas**, **segmentação de públicos** e **modelagem de probabilidade de sucesso de campanhas**, utilizando dados oriundos das APIs do **Meta Ads** e **Google Analytics 4 (GA4)**.
+
+O objetivo central é transformar dados brutos de plataformas de mídia em **insights acionáveis**, por meio de uma arquitetura enxuta, escalável e de baixo custo, adequada para **pequenas e médias empresas de marketing**.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+* Automatizar a ingestão diária de dados de campanhas **ativas**
+* Tratar e padronizar dados antes do armazenamento em nuvem
+* Criar uma base analítica confiável para:
+
+  * comparação de públicos
+  * análise de performance por campanha
+  * modelagem preditiva de probabilidade de sucesso
+* Disponibilizar dashboards atualizados automaticamente no **Looker Studio**
+
+---
+
+## 🧠 Conceito de Negócio
+
+> Uma única ingestão diária consolida todas as campanhas ativas, evitando duplicações, reduzindo custos e permitindo análises comparativas entre públicos e campanhas ao longo do tempo.
+
+---
+
+## 🏗️ Arquitetura Geral
+
+```text
+Meta Ads API / GA4 API
+        ↓
+Ingestão Python (Docker)
+        ↓
+Tratamento e Validação (Local)
+        ↓
+Camada Silver (GCS – retenção 90 dias)
+        ↓
+Modelagem Analítica (dbt)
+        ↓
+Camada Gold (BigQuery)
+        ↓
+Looker Studio (Dashboards automáticos)
+```
+
+---
+
+## 🧱 Camadas de Dados
+
+### 🔹 Bronze (não persistida)
+
+* Dados brutos coletados via API
+* Existência apenas em memória (DataFrame)
+* Usada exclusivamente para tratamento inicial
+
+---
+
+### 🔹 Silver (Google Cloud Storage)
+
+* Dados tratados, padronizados e enriquecidos
+* Armazenados em **Parquet**
+* Retenção de **90 dias**
+* Particionados por data e plataforma
+
+```text
+gs://<bucket-name>/silver/
+ └── platform=meta_ads/
+     └── date=YYYY-MM-DD/
+         └── data.parquet
+```
+
+---
+
+### 🔹 Gold (BigQuery)
+
+* Dados consolidados para análise e visualização
+* Métricas de marketing calculadas
+* Base para dashboards e modelos preditivos
+
+Exemplo de estrutura:
+
+```text
+date
+campaign_id
+campaign_name
+audience
+spend
+clicks
+conversions
+ctr
+cpa
+roas
+performance_score
+```
+
+---
+
+## 🔄 Orquestração e Execução
+
+### Estratégia Atual
+
+* Execução **diária**
+* Pode ser realizada via:
+
+  * Airflow em Docker (opcional)
+  * Cloud Scheduler + script Python
+* Foco em **baixo custo operacional**
+
+### Importante
+
+* **Não existe uma DAG por campanha**
+* Todas as campanhas ativas são processadas em uma única execução
+
+---
+
+## 📈 Critério de Campanhas Ativas
+
+### Meta Ads
+
+* `status = ACTIVE`
+* `effective_status = ACTIVE`
+
+### GA4
+
+* Campanhas com eventos/métricas > 0 no período
+
+---
+
+## 📊 Visualização (Looker Studio)
+
+* Conexão direta com **BigQuery**
+* Atualização automática após cada execução do pipeline
+* Dashboards focados em:
+
+  * performance por campanha
+  * comparação de públicos
+  * evolução temporal
+  * suporte à tomada de decisão em campanhas sazonais (ex.: Black Friday)
+
+---
+
+## 🔮 Modelagem Preditiva (Gold)
+
+O projeto permite a aplicação de modelos como:
+
+* Regressão logística
+* Scoring de performance
+* Probabilidade de sucesso da campanha X com público Y
+
+Exemplo de pergunta respondida:
+
+> “Qual a chance dessa campanha performar bem com este público?”
+
+---
+
+## 🧪 Ferramentas Utilizadas
+
+* **Python** (ingestão, tratamento e modelagem)
+* **Docker** (replicabilidade do ambiente)
+* **dbt** (transformações e métricas analíticas)
+* **Google Cloud Storage** (camada Silver)
+* **BigQuery** (camada Gold)
+* **Looker Studio** (visualização)
+* **.env** (segurança de credenciais)
+
+---
+
+## 💰 Considerações de Custo
+
+* Arquitetura desenhada para custar **menos de R$ 40/mês**
+* Airflow não é obrigatório
+* Armazenamento e consultas otimizadas
+* Escalável para múltiplos clientes sem crescimento linear de custos
+
+---
+
+## 🚀 Diferencial do Projeto
+
+✔ Foco em marketing real
+✔ Pipeline simples, porém profissional
+✔ Baixo custo
+✔ Escalável
+✔ Pronto para venda como produto ou serviço
+
+---
+
+## 📌 Próximos Passos
+
+* Evoluir modelo preditivo
+* Automatizar feature engineering
+* Criar templates de dashboards por tipo de cliente
+* Adicionar alertas de performance
+
+---
+
+## 📄 Licença
+
+Projeto acadêmico e experimental – MBA em Marketing
+Uso educacional e demonstrativo.

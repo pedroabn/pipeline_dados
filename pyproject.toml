@@ -7,92 +7,120 @@ name = "marketing-data-pipeline"
 version = "1.0.0"
 description = "Pipeline end-to-end para análise de campanhas de marketing digital"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.10,<3.14"
 license = {text = "MIT"}
 authors = [
-    {name = "Seu Nome", email = "seu.email@exemplo.com"}
+    {name = "Pedro Neiva", email = "seu.email@exemplo.com"}
 ]
 keywords = ["marketing", "data-pipeline", "analytics", "etl", "dbt"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
 ]
 
 # ============================================
-# DEPENDÊNCIAS DE PRODUÇÃO
+# DEPENDÊNCIAS DE PRODUÇÃO (CORE)
 # ============================================
 dependencies = [
-    # Core Python
-    "pandas>=2.1.0,<3.0.0",
+    # Core Python - Versões compatíveis com Airflow e dbt
+    "pandas>=2.0.0,<2.3.0",
     "numpy>=1.24.0,<2.0.0",
-    "pyarrow>=14.0.0",  # Para Parquet
+    "pyarrow>=14.0.0,<18.0.0",
     
     # Configuração e Validação
     "pydantic>=2.5.0,<3.0.0",
-    "pydantic-settings>=2.1.0",
+    "pydantic-settings>=2.1.0,<3.0.0",
     "python-dotenv>=1.0.0",
     
-    # Google Cloud Platform
+    # Google Cloud Platform - Versões estáveis
     "google-cloud-storage>=2.14.0,<3.0.0",
     "google-cloud-bigquery>=3.15.0,<4.0.0",
-    "google-analytics-data>=0.18.0",  # GA4
+    "google-analytics-data>=0.18.0,<1.0.0",
+    "db-dtypes>=1.1.0,<2.0.0",  # Necessário para BigQuery com pandas
     
     # APIs Externas
     "requests>=2.31.0,<3.0.0",
-    "facebook-business>=19.0.0",  # Meta Ads SDK
+    "facebook-business>=19.0.0,<20.0.0",
     
-    # Airflow
-    "apache-airflow>=2.8.0,<3.0.0",
-    "apache-airflow-providers-google>=10.12.0",
-    
-    # DBT
-    "dbt-core>=1.7.0,<2.0.0",
-    "dbt-bigquery>=1.7.0,<2.0.0",
-    
-    # Logging e Monitoramento
-    "structlog>=23.2.0",  # Logging estruturado
-    "python-json-logger>=2.0.7",
+    # Logging
+    "structlog>=23.2.0,<25.0.0",
+    "python-json-logger>=2.0.7,<3.0.0",
 ]
 
 # ============================================
-# DEPENDÊNCIAS DE DESENVOLVIMENTO
+# DEPENDÊNCIAS OPCIONAIS (EVITA CONFLITOS)
 # ============================================
 [project.optional-dependencies]
+
+# Airflow - Instalar separadamente ou em ambiente específico
+airflow = [
+    "apache-airflow>=2.8.0,<2.9.0",
+    "apache-airflow-providers-google>=10.12.0,<11.0.0",
+]
+
+# DBT - Instalar separadamente ou em ambiente específico  
+dbt = [
+    "dbt-core>=1.7.0,<1.9.0",
+    "dbt-bigquery>=1.7.0,<1.9.0",
+]
+
+# Ambiente completo (cuidado com conflitos!)
+full = [
+    "apache-airflow>=2.8.0,<2.9.0",
+    "apache-airflow-providers-google>=10.12.0,<11.0.0",
+    "dbt-core>=1.7.0,<1.9.0",
+    "dbt-bigquery>=1.7.0,<1.9.0",
+]
+
+# Machine Learning
+ml = [
+    "scikit-learn>=1.3.0,<2.0.0",
+    "joblib>=1.3.0,<2.0.0",
+    "lightgbm>=4.1.0,<5.0.0",
+]
+
+# Desenvolvimento
 dev = [
     # Testes
-    "pytest>=7.4.0",
-    "pytest-cov>=4.1.0",
-    "pytest-mock>=3.12.0",
-    "pytest-asyncio>=0.21.0",
+    "pytest>=7.4.0,<9.0.0",
+    "pytest-cov>=4.1.0,<6.0.0",
+    "pytest-mock>=3.12.0,<4.0.0",
+    "pytest-asyncio>=0.21.0,<1.0.0",
+    "faker>=20.0.0,<27.0.0",
     
     # Qualidade de Código
-    "ruff>=0.1.0",  # Linter moderno e rápido
-    "black>=23.0.0",  # Formatação
-    "isort>=5.12.0",  # Organização de imports
-    "mypy>=1.7.0",  # Type checking
+    "ruff>=0.1.0,<1.0.0",
+    "black>=23.0.0,<25.0.0",
+    "isort>=5.12.0,<6.0.0",
+    "mypy>=1.7.0,<2.0.0",
     
-    # Ferramentas
+    # Notebooks e Análise
     "ipython>=8.18.0",
     "jupyter>=1.0.0",
-    "pre-commit>=3.5.0",
+    "notebook>=7.0.0",
+    "matplotlib>=3.7.0,<4.0.0",
+    "seaborn>=0.12.0,<1.0.0",
+    
+    # Ferramentas
+    "pre-commit>=3.5.0,<4.0.0",
 ]
 
+# Apenas testes
 test = [
-    "pytest>=7.4.0",
-    "pytest-cov>=4.1.0",
-    "pytest-mock>=3.12.0",
-    "faker>=20.0.0",  # Dados fake para testes
+    "pytest>=7.4.0,<9.0.0",
+    "pytest-cov>=4.1.0,<6.0.0",
+    "pytest-mock>=3.12.0,<4.0.0",
+    "faker>=20.0.0,<27.0.0",
 ]
 
+# Documentação
 docs = [
-    "mkdocs>=1.5.0",
-    "mkdocs-material>=9.4.0",
-]
-
-all = [
-    "marketing-data-pipeline[dev,test,docs]"
+    "mkdocs>=1.5.0,<2.0.0",
+    "mkdocs-material>=9.4.0,<10.0.0",
 ]
 
 # ============================================
@@ -100,15 +128,14 @@ all = [
 # ============================================
 [project.scripts]
 marketing-pipeline = "src.cli:main"
-validate-env = "scripts.setup.validate_env:main"
-setup-gcs = "scripts.setup.setup_gcs_lifecycle:main"
+validate-env = "alert.setup.validate_env:main"
 
 # ============================================
 # URLs do Projeto
 # ============================================
 [project.urls]
 Homepage = "https://github.com/pedroabn/pipeline_dados/"
-Documentation = "https://github.com/pedroabn/pipeline_dados//wiki"
+Documentation = "https://github.com/pedroabn/pipeline_dados/wiki"
 Repository = "https://github.com/pedroabn/pipeline_dados/"
 Issues = "https://github.com/pedroabn/pipeline_dados/issues"
 
@@ -116,7 +143,7 @@ Issues = "https://github.com/pedroabn/pipeline_dados/issues"
 # CONFIGURAÇÃO SETUPTOOLS
 # ============================================
 [tool.setuptools]
-packages = ["src"]
+packages = ["src", "alert", "config"]
 
 [tool.setuptools.package-data]
 src = ["py.typed"]
@@ -136,7 +163,7 @@ addopts = [
     "--cov=src",
     "--cov-report=html",
     "--cov-report=term-missing",
-    "--cov-fail-under=70",  # Cobertura mínima 70%
+    "--cov-fail-under=70",
 ]
 markers = [
     "unit: Testes unitários rápidos",
@@ -156,7 +183,7 @@ omit = [
     "*/tests/*",
     "*/__pycache__/*",
     "*/venv/*",
-    "*/migrations/*",
+    "*/.venv/*",
 ]
 
 [tool.coverage.report]
@@ -175,20 +202,17 @@ exclude_lines = [
 # ============================================
 [tool.black]
 line-length = 100
-target-version = ["py311"]
+target-version = ["py310", "py311", "py312", "py313"]
 include = '\.pyi?$'
 extend-exclude = '''
 /(
-  # directories
   \.eggs
   | \.git
-  | \.hg
   | \.mypy_cache
-  | \.tox
   | \.venv
   | build
   | dist
-  | dbt
+  | airflow/dbt
 )/
 '''
 
@@ -203,26 +227,23 @@ include_trailing_comma = true
 force_grid_wrap = 0
 use_parentheses = true
 ensure_newline_before_comments = true
-skip_glob = ["*/migrations/*", "*/dbt/*"]
+skip_glob = ["*/airflow/dbt/*", "*/.venv/*"]
 
 # ============================================
 # RUFF - Linter Moderno
 # ============================================
 [tool.ruff]
 line-length = 100
-target-version = "py311"
+target-version = "py310"
 
-# Diretórios a ignorar
 extend-exclude = [
-    "dbt",
-    "migrations",
+    "airflow/dbt",
     ".venv",
     "build",
     "dist",
 ]
 
 [tool.ruff.lint]
-# Regras habilitadas
 select = [
     "E",    # pycodestyle errors
     "W",    # pycodestyle warnings
@@ -235,7 +256,6 @@ select = [
     "SIM",  # flake8-simplify
 ]
 
-# Regras ignoradas
 ignore = [
     "E501",  # line too long (black cuida disso)
     "B008",  # do not perform function calls in argument defaults
@@ -246,26 +266,18 @@ ignore = [
 # MYPY - Type Checking
 # ============================================
 [tool.mypy]
-python_version = "3.11"
+python_version = "3.10"
 warn_return_any = true
 warn_unused_configs = true
-disallow_untyped_defs = false  # Relaxado para início
+disallow_untyped_defs = false
 ignore_missing_imports = true
 
-# Diretórios a ignorar
 exclude = [
-    "dbt",
+    "airflow/dbt",
     "tests",
-    "venv",
+    ".venv",
 ]
 
 [[tool.mypy.overrides]]
 module = "tests.*"
 ignore_errors = true
-
-# ============================================
-# BANDIT - Segurança
-# ============================================
-[tool.bandit]
-exclude_dirs = ["tests", "dbt", ".venv"]
-skips = ["B101"]  # Ignora assert_used (comum em testes)

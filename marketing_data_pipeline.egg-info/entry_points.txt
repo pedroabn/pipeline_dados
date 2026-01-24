@@ -1,0 +1,3 @@
+[console_scripts]
+marketing-pipeline = src.cli:main
+validate-env = alert.setup.validate_env:main

@@ -11,7 +11,7 @@
 venv
 
 # Credenciais GCP
-config/service_account.json
+include/config/
 
 # ============================================
 # Python
@@ -27,19 +27,11 @@ ENV/
 .venv
 
 # ============================================
-# Airflow
-# ============================================
-airflow/logs/
-airflow/airflow.db
-airflow/airflow.cfg.bak
-airflow/webserver_config.py
-
-# ============================================
 # DBT
 # ============================================
-dbt/target/
-dbt/dbt_packages/
-dbt/logs/
+include/dbt/dbtMarketing/target
+include/dbt/dbtMarketing/dbt_packages/
+include/dbt/dbtMarketing/logs/
 
 # ============================================
 # Dados Locais
