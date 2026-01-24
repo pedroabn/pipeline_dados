@@ -24,7 +24,7 @@ sources:
             format: "CSV"
             skip_leading_rows: 1
 
-      - name: vendas_raw
+      - name: meta_ads_raw
         external:
           location: 'gs://pipeline-mar/bronze/meta_ads_raw.csv'
           format: csv
